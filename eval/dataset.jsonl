@@ -1,0 +1,460 @@
+{"text": "Tracking ID 578896683717 is out for delivery.", "entities": [], "tag": "hard_negative"}
+{"text": "Hi, this is Hrithik Fischer. Reach me at 80139 90490 or hrithik_fischer67@outlook.com.", "entities": [{"type": "PERSON", "start": 12, "end": 27}, {"type": "PHONE", "start": 41, "end": 52}, {"type": "EMAIL", "start": 56, "end": 85}], "tag": "unseen_name"}
+{"text": "Send the invoice to michael_johnson@acme.in and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 43}], "tag": "positive"}
+{"text": "Hi, this is Daniel Kale. Reach me at +91-6361115542 or daniel.kale@gmail.com.", "entities": [{"type": "PERSON", "start": 12, "end": 23}, {"type": "PHONE", "start": 37, "end": 51}, {"type": "EMAIL", "start": 55, "end": 76}], "tag": "unseen_name"}
+{"text": "Customer Ira Walker shared PAN OADCO7479A for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 19}, {"type": "PAN", "start": 31, "end": 41}], "tag": "unseen_name"}
+{"text": "Ticket 773452 was resolved by the support team.", "entities": [], "tag": "hard_negative"}
+{"text": "Card number 4878 5191 0883 9820 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 31}], "tag": "positive"}
+{"text": "Send the invoice to devansh_bose74@acme.in and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 42}], "tag": "positive"}
+{"text": "Reference number 6602 2356 9725 for your complaint.", "entities": [], "tag": "hard_negative"}
+{"text": "Refund to account 740748217594, IFSC PUNB0647436.", "entities": [{"type": "BANK_ACCOUNT", "start": 18, "end": 30}, {"type": "IFSC", "start": 37, "end": 48}], "tag": "positive"}
+{"text": "We sold 998450 units in the last quarter.", "entities": [], "tag": "hard_negative"}
+{"text": "Our GSTIN is 32QVJPH6475T1ZB, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "Dear Navjot Varghese, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 20}], "tag": "seen_name"}
+{"text": "Card number 6013 9005 3293 1832 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 31}], "tag": "positive"}
+{"text": "Contact Sarah Brown at sarah_brown4@gmail.com about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 19}, {"type": "EMAIL", "start": 23, "end": 45}], "tag": "unseen_name"}
+{"text": "The meeting moved to 3 pm in conference room 4.", "entities": [], "tag": "hard_negative"}
+{"text": "Customer Tanvi Nair shared PAN OFWFC5236V for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 19}, {"type": "PAN", "start": 31, "end": 41}], "tag": "seen_name"}
+{"text": "Ship it to Sector 21, Ahmedabad 822414.", "entities": [{"type": "LOCATION", "start": 22, "end": 31}, {"type": "PIN_CODE", "start": 32, "end": 38}], "tag": "positive"}
+{"text": "My car number is GJ 14 M 1857, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 29}], "tag": "positive"}
+{"text": "Please call Megha Hegde on 69521 45623 before 5 pm.", "entities": [{"type": "PERSON", "start": 12, "end": 23}, {"type": "PHONE", "start": 27, "end": 38}], "tag": "seen_name"}
+{"text": "Dear Sana Thomas, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 16}], "tag": "seen_name"}
+{"text": "DOB: 19 October 1987, PAN: CQUHA6882P, phone: +91-6657262849.", "entities": [{"type": "DATE_OF_BIRTH", "start": 5, "end": 20}, {"type": "PAN", "start": 27, "end": 37}, {"type": "PHONE", "start": 46, "end": 60}], "tag": "positive"}
+{"text": "The meeting moved to 3 pm in conference room 4.", "entities": [], "tag": "hard_negative"}
+{"text": "The login came from IP address 14.212.190.170 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 45}], "tag": "positive"}
+{"text": "Please call Sarah Johnson on +91 88666 18892 before 5 pm.", "entities": [{"type": "PERSON", "start": 12, "end": 25}, {"type": "PHONE", "start": 29, "end": 44}], "tag": "unseen_name"}
+{"text": "Your order ID 669899008461 has been shipped.", "entities": [], "tag": "hard_negative"}
+{"text": "Hi, this is Vikram Banerjee. Reach me at +91 64711 38267 or vikrambanerjee96@company.co.in.", "entities": [{"type": "PERSON", "start": 12, "end": 27}, {"type": "PHONE", "start": 41, "end": 56}, {"type": "EMAIL", "start": 60, "end": 90}], "tag": "seen_name"}
+{"text": "The login came from IP address 66.159.29.22 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 43}], "tag": "positive"}
+{"text": "We sold 884645 units in the last quarter.", "entities": [], "tag": "hard_negative"}
+{"text": "Hi, this is Tejas Kale. Reach me at 6037129387 or tejas.kale90@gmail.com.", "entities": [{"type": "PERSON", "start": 12, "end": 22}, {"type": "PHONE", "start": 36, "end": 46}, {"type": "EMAIL", "start": 50, "end": 72}], "tag": "unseen_name"}
+{"text": "Summarise the quarterly report in three bullet points.", "entities": [], "tag": "hard_negative"}
+{"text": "Summarise the quarterly report in three bullet points.", "entities": [], "tag": "hard_negative"}
+{"text": "Transfer the salary of Ira Walker to 47451712368 (IFSC SBIN0160481).", "entities": [{"type": "PERSON", "start": 23, "end": 33}, {"type": "BANK_ACCOUNT", "start": 37, "end": 48}, {"type": "IFSC", "start": 55, "end": 66}], "tag": "unseen_name"}
+{"text": "Booking PNR 1997216402 is confirmed for tomorrow.", "entities": [], "tag": "hard_negative"}
+{"text": "DOB: 06/06/2001, PAN: YFPFP5055P, phone: 6168733950.", "entities": [{"type": "DATE_OF_BIRTH", "start": 5, "end": 15}, {"type": "PAN", "start": 22, "end": 32}, {"type": "PHONE", "start": 41, "end": 51}], "tag": "positive"}
+{"text": "Aadhaar 8912 5177 8523 and mobile 72680 18242 are linked for Omkar Kini.", "entities": [{"type": "AADHAAR", "start": 8, "end": 22}, {"type": "PHONE", "start": 34, "end": 45}, {"type": "PERSON", "start": 61, "end": 71}], "tag": "unseen_name"}
+{"text": "Transfer the salary of Hrithik Fischer to 798687277434 (IFSC KKBK0734714).", "entities": [{"type": "PERSON", "start": 23, "end": 38}, {"type": "BANK_ACCOUNT", "start": 42, "end": 54}, {"type": "IFSC", "start": 61, "end": 72}], "tag": "unseen_name"}
+{"text": "Reference number 2460 8432 5621 for your complaint.", "entities": [], "tag": "hard_negative"}
+{"text": "Ticket 105919 was resolved by the support team.", "entities": [], "tag": "hard_negative"}
+{"text": "Invoice number 6126037320 is due on Friday.", "entities": [], "tag": "hard_negative"}
+{"text": "The total comes to Rs 8,758 including GST.", "entities": [], "tag": "hard_negative"}
+{"text": "Your order ID 248252003336 has been shipped.", "entities": [], "tag": "hard_negative"}
+{"text": "Escalate this to Tarun Mehta in the Bengaluru office.", "entities": [{"type": "PERSON", "start": 17, "end": 28}, {"type": "LOCATION", "start": 36, "end": 45}], "tag": "seen_name"}
+{"text": "Ship it to Sector 21, Mumbai 253694.", "entities": [{"type": "LOCATION", "start": 22, "end": 28}, {"type": "PIN_CODE", "start": 29, "end": 35}], "tag": "positive"}
+{"text": "Transfer the salary of Om Garg to 84700766177 (IFSC HDFC0159212).", "entities": [{"type": "PERSON", "start": 23, "end": 30}, {"type": "BANK_ACCOUNT", "start": 34, "end": 45}, {"type": "IFSC", "start": 52, "end": 63}], "tag": "seen_name"}
+{"text": "My car number is MH 14 AB 8532, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "The meeting moved to 3 pm in conference room 4.", "entities": [], "tag": "hard_negative"}
+{"text": "Dear Harpreet Sinha, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 19}], "tag": "seen_name"}
+{"text": "Escalate this to Ankit Mahato in the Pune office.", "entities": [{"type": "PERSON", "start": 17, "end": 29}, {"type": "LOCATION", "start": 37, "end": 41}], "tag": "seen_name"}
+{"text": "Ship it to Sector 21, Kolkata 374526.", "entities": [{"type": "LOCATION", "start": 22, "end": 29}, {"type": "PIN_CODE", "start": 30, "end": 36}], "tag": "positive"}
+{"text": "The login came from IP address 104.149.221.204 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 46}], "tag": "positive"}
+{"text": "Contact Yuvraj Luthra at yuvrajluthra@company.co.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 21}, {"type": "EMAIL", "start": 25, "end": 51}], "tag": "unseen_name"}
+{"text": "Vidya Mathew lives in Bengaluru and was born on 06/10/1974.", "entities": [{"type": "PERSON", "start": 0, "end": 12}, {"type": "LOCATION", "start": 22, "end": 31}, {"type": "DATE_OF_BIRTH", "start": 48, "end": 58}], "tag": "seen_name"}
+{"text": "Hi, this is Tanvi Nair. Reach me at +91-6170462265 or tanvi_nair49@gmail.com.", "entities": [{"type": "PERSON", "start": 12, "end": 22}, {"type": "PHONE", "start": 36, "end": 50}, {"type": "EMAIL", "start": 54, "end": 76}], "tag": "seen_name"}
+{"text": "Ticket 534152 was resolved by the support team.", "entities": [], "tag": "hard_negative"}
+{"text": "Transfer the salary of Prachi Goel to 77514010512 (IFSC PUNB0382825).", "entities": [{"type": "PERSON", "start": 23, "end": 34}, {"type": "BANK_ACCOUNT", "start": 38, "end": 49}, {"type": "IFSC", "start": 56, "end": 67}], "tag": "seen_name"}
+{"text": "Please call Shraddha Nagpal on +91-6062312038 before 5 pm.", "entities": [{"type": "PERSON", "start": 12, "end": 27}, {"type": "PHONE", "start": 31, "end": 45}], "tag": "unseen_name"}
+{"text": "Passport number W6419518 expires next year.", "entities": [{"type": "PASSPORT", "start": 16, "end": 24}], "tag": "positive"}
+{"text": "Your order ID 320263160968 has been shipped.", "entities": [], "tag": "hard_negative"}
+{"text": "Aadhaar 8753 3963 6059 and mobile 9662702895 are linked for Manish Dhillon.", "entities": [{"type": "AADHAAR", "start": 8, "end": 22}, {"type": "PHONE", "start": 34, "end": 44}, {"type": "PERSON", "start": 60, "end": 74}], "tag": "seen_name"}
+{"text": "My car number is GJ 14 CK 7286, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "The login came from IP address 151.193.94.108 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 45}], "tag": "positive"}
+{"text": "Ticket 522988 was resolved by the support team.", "entities": [], "tag": "hard_negative"}
+{"text": "Ship it to Sector 21, Hyderabad 368422.", "entities": [{"type": "LOCATION", "start": 22, "end": 31}, {"type": "PIN_CODE", "start": 32, "end": 38}], "tag": "positive"}
+{"text": "Ticket 528436 was resolved by the support team.", "entities": [], "tag": "hard_negative"}
+{"text": "Reference number 7564 7292 9314 for your complaint.", "entities": [], "tag": "hard_negative"}
+{"text": "The meeting moved to 3 pm in conference room 4.", "entities": [], "tag": "hard_negative"}
+{"text": "Booking PNR 5347399246 is confirmed for tomorrow.", "entities": [], "tag": "hard_negative"}
+{"text": "Escalate this to Shalini Choudhary in the Kolkata office.", "entities": [{"type": "PERSON", "start": 17, "end": 34}, {"type": "LOCATION", "start": 42, "end": 49}], "tag": "seen_name"}
+{"text": "Transaction 955473118316 failed, please retry.", "entities": [], "tag": "hard_negative"}
+{"text": "Your order ID 957421016279 has been shipped.", "entities": [], "tag": "hard_negative"}
+{"text": "Reference number 4241 0988 1385 for your complaint.", "entities": [], "tag": "hard_negative"}
+{"text": "Send the invoice to meghahegde@yahoo.co.in and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 42}], "tag": "positive"}
+{"text": "My name is Mahima Wagh and my Aadhaar is 2084 8408 6214.", "entities": [{"type": "PERSON", "start": 11, "end": 22}, {"type": "AADHAAR", "start": 41, "end": 55}], "tag": "unseen_name"}
+{"text": "Send the invoice to michael_bose@outlook.com and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 44}], "tag": "positive"}
+{"text": "Reference number 4577 7547 8129 for your complaint.", "entities": [], "tag": "hard_negative"}
+{"text": "Ship it to Sector 21, Mumbai 707984.", "entities": [{"type": "LOCATION", "start": 22, "end": 28}, {"type": "PIN_CODE", "start": 29, "end": 35}], "tag": "positive"}
+{"text": "The login came from IP address 30.124.217.151 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 45}], "tag": "positive"}
+{"text": "Reference number 6530 3856 7700 for your complaint.", "entities": [], "tag": "hard_negative"}
+{"text": "Hi, this is Priyanka Mathew. Reach me at +91-8819956046 or priyanka.mathew@company.co.in.", "entities": [{"type": "PERSON", "start": 12, "end": 27}, {"type": "PHONE", "start": 41, "end": 55}, {"type": "EMAIL", "start": 59, "end": 88}], "tag": "seen_name"}
+{"text": "My name is Michael Luthra and my Aadhaar is 9659 1803 3975.", "entities": [{"type": "PERSON", "start": 11, "end": 25}, {"type": "AADHAAR", "start": 44, "end": 58}], "tag": "unseen_name"}
+{"text": "Aadhaar 7944 0640 9098 and mobile 9439533942 are linked for Senthil Desai.", "entities": [{"type": "AADHAAR", "start": 8, "end": 22}, {"type": "PHONE", "start": 34, "end": 44}, {"type": "PERSON", "start": 60, "end": 73}], "tag": "seen_name"}
+{"text": "Tracking ID 975812260897 is out for delivery.", "entities": [], "tag": "hard_negative"}
+{"text": "Booking PNR 4577406847 is confirmed for tomorrow.", "entities": [], "tag": "hard_negative"}
+{"text": "The login came from IP address 40.99.121.39 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 43}], "tag": "positive"}
+{"text": "Ticket 947228 was resolved by the support team.", "entities": [], "tag": "hard_negative"}
+{"text": "Ship it to Sector 21, Mumbai 777679.", "entities": [{"type": "LOCATION", "start": 22, "end": 28}, {"type": "PIN_CODE", "start": 29, "end": 35}], "tag": "positive"}
+{"text": "The total comes to Rs 96,481 including GST.", "entities": [], "tag": "hard_negative"}
+{"text": "Summarise the quarterly report in three bullet points.", "entities": [], "tag": "hard_negative"}
+{"text": "Card number 5114 6584 0449 9722 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 31}], "tag": "positive"}
+{"text": "We sold 174703 units in the last quarter.", "entities": [], "tag": "hard_negative"}
+{"text": "The meeting moved to 3 pm in conference room 4.", "entities": [], "tag": "hard_negative"}
+{"text": "Our GSTIN is 35MMLCJ0689J2Z1, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "Dear Nidhi Goyal, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 16}], "tag": "seen_name"}
+{"text": "Tracking ID 925587602061 is out for delivery.", "entities": [], "tag": "hard_negative"}
+{"text": "Contact Carlos Bhosale at carlos.bhosale75@yahoo.co.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 22}, {"type": "EMAIL", "start": 26, "end": 54}], "tag": "unseen_name"}
+{"text": "Our GSTIN is 21FZTFW5928C7ZA, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "Ticket 623238 was resolved by the support team.", "entities": [], "tag": "hard_negative"}
+{"text": "Transaction 672872217445 failed, please retry.", "entities": [], "tag": "hard_negative"}
+{"text": "Contact Vikram Banerjee at vikrambanerjee@company.co.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 23}, {"type": "EMAIL", "start": 27, "end": 55}], "tag": "seen_name"}
+{"text": "Please call Shraddha Sawant on 8316117240 before 5 pm.", "entities": [{"type": "PERSON", "start": 12, "end": 27}, {"type": "PHONE", "start": 31, "end": 41}], "tag": "unseen_name"}
+{"text": "Please upgrade to version 10.2.3.4 before the release.", "entities": [], "tag": "hard_negative"}
+{"text": "DOB: 17/10/1992, PAN: UUYCN7398H, phone: +91 95766 15654.", "entities": [{"type": "DATE_OF_BIRTH", "start": 5, "end": 15}, {"type": "PAN", "start": 22, "end": 32}, {"type": "PHONE", "start": 41, "end": 56}], "tag": "positive"}
+{"text": "The login came from IP address 97.151.158.44 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 44}], "tag": "positive"}
+{"text": "Hi, this is Omkar Kini. Reach me at 69402 44550 or omkar.kini73@gmail.com.", "entities": [{"type": "PERSON", "start": 12, "end": 22}, {"type": "PHONE", "start": 36, "end": 47}, {"type": "EMAIL", "start": 51, "end": 73}], "tag": "unseen_name"}
+{"text": "Contact Devansh Nagpal at devanshnagpal@gmail.com about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 22}, {"type": "EMAIL", "start": 26, "end": 49}], "tag": "unseen_name"}
+{"text": "We sold 793856 units in the last quarter.", "entities": [], "tag": "hard_negative"}
+{"text": "DOB: 6 Jan 2000, PAN: CHDFD2522P, phone: +91-8846773782.", "entities": [{"type": "DATE_OF_BIRTH", "start": 5, "end": 15}, {"type": "PAN", "start": 22, "end": 32}, {"type": "PHONE", "start": 41, "end": 55}], "tag": "positive"}
+{"text": "Escalate this to Ritika Johnson in the Lucknow office.", "entities": [{"type": "PERSON", "start": 17, "end": 31}, {"type": "LOCATION", "start": 39, "end": 46}], "tag": "unseen_name"}
+{"text": "Send the invoice to sarah.johnson@acme.in and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 41}], "tag": "positive"}
+{"text": "Customer Prateek Sinha shared PAN WERPL9543R for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 22}, {"type": "PAN", "start": 34, "end": 44}], "tag": "seen_name"}
+{"text": "Send the invoice to usharaman7@yahoo.co.in and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 42}], "tag": "positive"}
+{"text": "You can pay me at sarita326@upi via GPay.", "entities": [{"type": "UPI_ID", "start": 18, "end": 31}], "tag": "positive"}
+{"text": "Please upgrade to version 10.2.3.4 before the release.", "entities": [], "tag": "hard_negative"}
+{"text": "Send the invoice to tushar_kohli@company.co.in and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 46}], "tag": "positive"}
+{"text": "My name is Priya Nayak and my Aadhaar is 4445 1076 2261.", "entities": [{"type": "PERSON", "start": 11, "end": 22}, {"type": "AADHAAR", "start": 41, "end": 55}], "tag": "seen_name"}
+{"text": "My car number is TN 29 M 3580, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 29}], "tag": "positive"}
+{"text": "Tracking ID 602349296008 is out for delivery.", "entities": [], "tag": "hard_negative"}
+{"text": "Escalate this to Ritika Johnson in the Indore office.", "entities": [{"type": "PERSON", "start": 17, "end": 31}, {"type": "LOCATION", "start": 39, "end": 45}], "tag": "unseen_name"}
+{"text": "Ship it to Sector 21, Jaipur 755415.", "entities": [{"type": "LOCATION", "start": 22, "end": 28}, {"type": "PIN_CODE", "start": 29, "end": 35}], "tag": "positive"}
+{"text": "Transfer the salary of Harleen Modi to 12275304637454 (IFSC KKBK0904530).", "entities": [{"type": "PERSON", "start": 23, "end": 35}, {"type": "BANK_ACCOUNT", "start": 39, "end": 53}, {"type": "IFSC", "start": 60, "end": 71}], "tag": "seen_name"}
+{"text": "Contact Yuvraj Chavan at yuvraj_chavan27@yahoo.co.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 21}, {"type": "EMAIL", "start": 25, "end": 52}], "tag": "unseen_name"}
+{"text": "Sarah Brown lives in Mumbai and was born on 2 Jan 1995.", "entities": [{"type": "PERSON", "start": 0, "end": 11}, {"type": "LOCATION", "start": 21, "end": 27}, {"type": "DATE_OF_BIRTH", "start": 44, "end": 54}], "tag": "unseen_name"}
+{"text": "Contact Shalini Bajaj at shalini_bajaj@acme.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 21}, {"type": "EMAIL", "start": 25, "end": 46}], "tag": "seen_name"}
+{"text": "Escalate this to Omkar Bhosale in the Indore office.", "entities": [{"type": "PERSON", "start": 17, "end": 30}, {"type": "LOCATION", "start": 38, "end": 44}], "tag": "unseen_name"}
+{"text": "Customer Nidhi Goyal shared PAN MVQHW1923U for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 20}, {"type": "PAN", "start": 32, "end": 42}], "tag": "seen_name"}
+{"text": "Hi, this is Vignesh Verma. Reach me at +91-7421024994 or vignesh.verma60@acme.in.", "entities": [{"type": "PERSON", "start": 12, "end": 25}, {"type": "PHONE", "start": 39, "end": 53}, {"type": "EMAIL", "start": 57, "end": 80}], "tag": "seen_name"}
+{"text": "Please upgrade to version 10.2.3.4 before the release.", "entities": [], "tag": "hard_negative"}
+{"text": "You can pay me at shankar810@oksbi via GPay.", "entities": [{"type": "UPI_ID", "start": 18, "end": 34}], "tag": "positive"}
+{"text": "Customer Jatin Mukherjee shared PAN MQECA0372J for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 24}, {"type": "PAN", "start": 36, "end": 46}], "tag": "seen_name"}
+{"text": "Tracking ID 416168278437 is out for delivery.", "entities": [], "tag": "hard_negative"}
+{"text": "Contact Keshav Walker at keshavwalker6@company.co.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 21}, {"type": "EMAIL", "start": 25, "end": 52}], "tag": "unseen_name"}
+{"text": "Card number 5295 1484 6564 8236 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 31}], "tag": "positive"}
+{"text": "Customer Shraddha Sawant shared PAN GZXHW9998U for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 24}, {"type": "PAN", "start": 36, "end": 46}], "tag": "unseen_name"}
+{"text": "Hi, this is Emma Lopez. Reach me at 97658 61793 or emma_lopez@outlook.com.", "entities": [{"type": "PERSON", "start": 12, "end": 22}, {"type": "PHONE", "start": 36, "end": 47}, {"type": "EMAIL", "start": 51, "end": 73}], "tag": "unseen_name"}
+{"text": "Aadhaar 9010 3930 8708 and mobile 89325 25002 are linked for Esha Wagh.", "entities": [{"type": "AADHAAR", "start": 8, "end": 22}, {"type": "PHONE", "start": 34, "end": 45}, {"type": "PERSON", "start": 61, "end": 70}], "tag": "unseen_name"}
+{"text": "Customer Jatin Mukherjee shared PAN ACYCF6658P for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 24}, {"type": "PAN", "start": 36, "end": 46}], "tag": "seen_name"}
+{"text": "Manoj Menon lives in Nagpur and was born on 18/02/1973.", "entities": [{"type": "PERSON", "start": 0, "end": 11}, {"type": "LOCATION", "start": 21, "end": 27}, {"type": "DATE_OF_BIRTH", "start": 44, "end": 54}], "tag": "seen_name"}
+{"text": "Summarise the quarterly report in three bullet points.", "entities": [], "tag": "hard_negative"}
+{"text": "Card number 5213542784980842 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 28}], "tag": "positive"}
+{"text": "Tracking ID 421254812530 is out for delivery.", "entities": [], "tag": "hard_negative"}
+{"text": "My name is Sunita Jha and my Aadhaar is 6473 6471 0272.", "entities": [{"type": "PERSON", "start": 11, "end": 21}, {"type": "AADHAAR", "start": 40, "end": 54}], "tag": "seen_name"}
+{"text": "Please upgrade to version 10.2.3.4 before the release.", "entities": [], "tag": "hard_negative"}
+{"text": "Contact Keshav Walker at keshav_walker@gmail.com about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 21}, {"type": "EMAIL", "start": 25, "end": 48}], "tag": "unseen_name"}
+{"text": "Refund to account 18299229959001, IFSC HDFC0943969.", "entities": [{"type": "BANK_ACCOUNT", "start": 18, "end": 32}, {"type": "IFSC", "start": 39, "end": 50}], "tag": "positive"}
+{"text": "The total comes to Rs 91,799 including GST.", "entities": [], "tag": "hard_negative"}
+{"text": "Tracking ID 106764172872 is out for delivery.", "entities": [], "tag": "hard_negative"}
+{"text": "We sold 595401 units in the last quarter.", "entities": [], "tag": "hard_negative"}
+{"text": "Contact Mahima Wagh at mahima.wagh@yahoo.co.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 19}, {"type": "EMAIL", "start": 23, "end": 46}], "tag": "unseen_name"}
+{"text": "Reference number 3559 4284 3479 for your complaint.", "entities": [], "tag": "hard_negative"}
+{"text": "The meeting moved to 3 pm in conference room 4.", "entities": [], "tag": "hard_negative"}
+{"text": "The login came from IP address 152.164.164.195 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 46}], "tag": "positive"}
+{"text": "My car number is TN 24 CK 8600, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "Our GSTIN is 10WNZFC7357T8ZV, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "Summarise the quarterly report in three bullet points.", "entities": [], "tag": "hard_negative"}
+{"text": "Passport number P9414384 expires next year.", "entities": [{"type": "PASSPORT", "start": 16, "end": 24}], "tag": "positive"}
+{"text": "Please upgrade to version 10.2.3.4 before the release.", "entities": [], "tag": "hard_negative"}
+{"text": "Booking PNR 1891796718 is confirmed for tomorrow.", "entities": [], "tag": "hard_negative"}
+{"text": "Your order ID 957156321539 has been shipped.", "entities": [], "tag": "hard_negative"}
+{"text": "Dear Yuvraj Chavan, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 18}], "tag": "unseen_name"}
+{"text": "My car number is RJ 20 ZX 8581, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "The login came from IP address 186.82.150.155 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 45}], "tag": "positive"}
+{"text": "Hi, this is Parth Wagh. Reach me at +91 72325 36729 or parthwagh54@acme.in.", "entities": [{"type": "PERSON", "start": 12, "end": 22}, {"type": "PHONE", "start": 36, "end": 51}, {"type": "EMAIL", "start": 55, "end": 74}], "tag": "unseen_name"}
+{"text": "The total comes to Rs 19,216 including GST.", "entities": [], "tag": "hard_negative"}
+{"text": "Ship it to Sector 21, Kolkata 493163.", "entities": [{"type": "LOCATION", "start": 22, "end": 29}, {"type": "PIN_CODE", "start": 30, "end": 36}], "tag": "positive"}
+{"text": "The total comes to Rs 62,121 including GST.", "entities": [], "tag": "hard_negative"}
+{"text": "Contact Emma Chavan at emma.chavan79@acme.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 19}, {"type": "EMAIL", "start": 23, "end": 44}], "tag": "unseen_name"}
+{"text": "Customer Advait Wagh shared PAN VLFPS6547Y for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 20}, {"type": "PAN", "start": 32, "end": 42}], "tag": "unseen_name"}
+{"text": "Booking PNR 2136107759 is confirmed for tomorrow.", "entities": [], "tag": "hard_negative"}
+{"text": "Customer Vidya Mathew shared PAN WOGHW8047G for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 21}, {"type": "PAN", "start": 33, "end": 43}], "tag": "seen_name"}
+{"text": "Contact Ritika Johnson at ritika.johnson@outlook.com about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 22}, {"type": "EMAIL", "start": 26, "end": 52}], "tag": "unseen_name"}
+{"text": "Your order ID 488013174302 has been shipped.", "entities": [], "tag": "hard_negative"}
+{"text": "Our GSTIN is 37XYYFR8369D2ZB, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "We sold 965401 units in the last quarter.", "entities": [], "tag": "hard_negative"}
+{"text": "Contact Omkar Walker at omkar_walker66@gmail.com about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 20}, {"type": "EMAIL", "start": 24, "end": 48}], "tag": "unseen_name"}
+{"text": "Refund to account 15869380686, IFSC KKBK0793741.", "entities": [{"type": "BANK_ACCOUNT", "start": 18, "end": 29}, {"type": "IFSC", "start": 36, "end": 47}], "tag": "positive"}
+{"text": "Gaurav Sethi lives in Kochi and was born on 24 October 1979.", "entities": [{"type": "PERSON", "start": 0, "end": 12}, {"type": "LOCATION", "start": 22, "end": 27}, {"type": "DATE_OF_BIRTH", "start": 44, "end": 59}], "tag": "seen_name"}
+{"text": "The total comes to Rs 99,341 including GST.", "entities": [], "tag": "hard_negative"}
+{"text": "Our GSTIN is 31GLVFO4616Y7Z6, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "Your order ID 873097735295 has been shipped.", "entities": [], "tag": "hard_negative"}
+{"text": "Transfer the salary of Parth Brown to 27532697311219 (IFSC PUNB0656523).", "entities": [{"type": "PERSON", "start": 23, "end": 34}, {"type": "BANK_ACCOUNT", "start": 38, "end": 52}, {"type": "IFSC", "start": 59, "end": 70}], "tag": "unseen_name"}
+{"text": "Transfer the salary of Ritika Kini to 75355609320 (IFSC SBIN0899642).", "entities": [{"type": "PERSON", "start": 23, "end": 34}, {"type": "BANK_ACCOUNT", "start": 38, "end": 49}, {"type": "IFSC", "start": 56, "end": 67}], "tag": "unseen_name"}
+{"text": "Invoice number 4554178984 is due on Friday.", "entities": [], "tag": "hard_negative"}
+{"text": "Invoice number 8235474949 is due on Friday.", "entities": [], "tag": "hard_negative"}
+{"text": "My car number is TN 24 ZX 4505, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "Passport number P6623869 expires next year.", "entities": [{"type": "PASSPORT", "start": 16, "end": 24}], "tag": "positive"}
+{"text": "Contact Siddharth Vohra at siddharth.vohra12@acme.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 23}, {"type": "EMAIL", "start": 27, "end": 52}], "tag": "seen_name"}
+{"text": "Summarise the quarterly report in three bullet points.", "entities": [], "tag": "hard_negative"}
+{"text": "Refund to account 18501631599965, IFSC HDFC0477358.", "entities": [{"type": "BANK_ACCOUNT", "start": 18, "end": 32}, {"type": "IFSC", "start": 39, "end": 50}], "tag": "positive"}
+{"text": "Send the invoice to omgarg@company.co.in and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 40}], "tag": "positive"}
+{"text": "Passport number M2329121 expires next year.", "entities": [{"type": "PASSPORT", "start": 16, "end": 24}], "tag": "positive"}
+{"text": "Our GSTIN is 25MWGPS3978D5ZR, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "Transfer the salary of Michael Luthra to 67837770143 (IFSC UTIB0349578).", "entities": [{"type": "PERSON", "start": 23, "end": 37}, {"type": "BANK_ACCOUNT", "start": 41, "end": 52}, {"type": "IFSC", "start": 59, "end": 70}], "tag": "unseen_name"}
+{"text": "Card number 4739 3638 5467 8549 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 31}], "tag": "positive"}
+{"text": "The total comes to Rs 28,732 including GST.", "entities": [], "tag": "hard_negative"}
+{"text": "Ticket 412534 was resolved by the support team.", "entities": [], "tag": "hard_negative"}
+{"text": "Card number 5107151820377887 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 28}], "tag": "positive"}
+{"text": "The login came from IP address 20.38.163.122 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 44}], "tag": "positive"}
+{"text": "Dear Yuvraj Luthra, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 18}], "tag": "unseen_name"}
+{"text": "Please upgrade to version 10.2.3.4 before the release.", "entities": [], "tag": "hard_negative"}
+{"text": "My name is Prakash Qureshi and my Aadhaar is 5950 2402 6811.", "entities": [{"type": "PERSON", "start": 11, "end": 26}, {"type": "AADHAAR", "start": 45, "end": 59}], "tag": "seen_name"}
+{"text": "Escalate this to Ira Kale in the Ahmedabad office.", "entities": [{"type": "PERSON", "start": 17, "end": 25}, {"type": "LOCATION", "start": 33, "end": 42}], "tag": "unseen_name"}
+{"text": "Customer Vijay Jha shared PAN VJWPG5370E for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 18}, {"type": "PAN", "start": 30, "end": 40}], "tag": "seen_name"}
+{"text": "Tracking ID 940492954278 is out for delivery.", "entities": [], "tag": "hard_negative"}
+{"text": "Escalate this to Keshav Lopez in the Mumbai office.", "entities": [{"type": "PERSON", "start": 17, "end": 29}, {"type": "LOCATION", "start": 37, "end": 43}], "tag": "unseen_name"}
+{"text": "The total comes to Rs 16,669 including GST.", "entities": [], "tag": "hard_negative"}
+{"text": "Transaction 308263359320 failed, please retry.", "entities": [], "tag": "hard_negative"}
+{"text": "Transfer the salary of Parth Brown to 230913075626 (IFSC PUNB0368970).", "entities": [{"type": "PERSON", "start": 23, "end": 34}, {"type": "BANK_ACCOUNT", "start": 38, "end": 50}, {"type": "IFSC", "start": 57, "end": 68}], "tag": "unseen_name"}
+{"text": "Summarise the quarterly report in three bullet points.", "entities": [], "tag": "hard_negative"}
+{"text": "Booking PNR 1386903346 is confirmed for tomorrow.", "entities": [], "tag": "hard_negative"}
+{"text": "The login came from IP address 59.84.102.210 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 44}], "tag": "positive"}
+{"text": "Aadhaar 8774 1862 5655 and mobile 7704774349 are linked for Yuvraj Luthra.", "entities": [{"type": "AADHAAR", "start": 8, "end": 22}, {"type": "PHONE", "start": 34, "end": 44}, {"type": "PERSON", "start": 60, "end": 73}], "tag": "unseen_name"}
+{"text": "Transfer the salary of Pranav Dutta to 719182619906 (IFSC PUNB0234456).", "entities": [{"type": "PERSON", "start": 23, "end": 35}, {"type": "BANK_ACCOUNT", "start": 39, "end": 51}, {"type": "IFSC", "start": 58, "end": 69}], "tag": "seen_name"}
+{"text": "Summarise the quarterly report in three bullet points.", "entities": [], "tag": "hard_negative"}
+{"text": "Transfer the salary of Senthil Desai to 24447212646 (IFSC SBIN0715437).", "entities": [{"type": "PERSON", "start": 23, "end": 36}, {"type": "BANK_ACCOUNT", "start": 40, "end": 51}, {"type": "IFSC", "start": 58, "end": 69}], "tag": "seen_name"}
+{"text": "Customer Shraddha Sawant shared PAN GTQHL4379Z for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 24}, {"type": "PAN", "start": 36, "end": 46}], "tag": "unseen_name"}
+{"text": "We sold 891645 units in the last quarter.", "entities": [], "tag": "hard_negative"}
+{"text": "Aadhaar 4962 0153 3684 and mobile 84431 06987 are linked for Shraddha Fischer.", "entities": [{"type": "AADHAAR", "start": 8, "end": 22}, {"type": "PHONE", "start": 34, "end": 45}, {"type": "PERSON", "start": 61, "end": 77}], "tag": "unseen_name"}
+{"text": "Our GSTIN is 08XELHK7460Z4ZW, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "Reference number 8852 8975 5855 for your complaint.", "entities": [], "tag": "hard_negative"}
+{"text": "Your order ID 598984483970 has been shipped.", "entities": [], "tag": "hard_negative"}
+{"text": "Transaction 633930817783 failed, please retry.", "entities": [], "tag": "hard_negative"}
+{"text": "Contact Ira Walker at irawalker@outlook.com about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 18}, {"type": "EMAIL", "start": 22, "end": 43}], "tag": "unseen_name"}
+{"text": "My car number is HR 22 ZX 1257, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "The total comes to Rs 82,703 including GST.", "entities": [], "tag": "hard_negative"}
+{"text": "Our GSTIN is 15EPEFX9924L7ZF, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "Contact Mrunal Wagh at mrunalwagh70@acme.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 19}, {"type": "EMAIL", "start": 23, "end": 43}], "tag": "unseen_name"}
+{"text": "Send the invoice to rekha_kapoor63@acme.in and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 42}], "tag": "positive"}
+{"text": "DOB: 01/11/1984, PAN: XMJPZ3921P, phone: 91379 18055.", "entities": [{"type": "DATE_OF_BIRTH", "start": 5, "end": 15}, {"type": "PAN", "start": 22, "end": 32}, {"type": "PHONE", "start": 41, "end": 52}], "tag": "positive"}
+{"text": "Refund to account 88805929622, IFSC ICIC0927065.", "entities": [{"type": "BANK_ACCOUNT", "start": 18, "end": 29}, {"type": "IFSC", "start": 36, "end": 47}], "tag": "positive"}
+{"text": "Transfer the salary of Yuvraj Rege to 92407581814 (IFSC HDFC0247826).", "entities": [{"type": "PERSON", "start": 23, "end": 34}, {"type": "BANK_ACCOUNT", "start": 38, "end": 49}, {"type": "IFSC", "start": 56, "end": 67}], "tag": "unseen_name"}
+{"text": "Hi, this is Pranav Rao. Reach me at +91-7687056856 or pranav.rao39@yahoo.co.in.", "entities": [{"type": "PERSON", "start": 12, "end": 22}, {"type": "PHONE", "start": 36, "end": 50}, {"type": "EMAIL", "start": 54, "end": 78}], "tag": "seen_name"}
+{"text": "The meeting moved to 3 pm in conference room 4.", "entities": [], "tag": "hard_negative"}
+{"text": "Dear Vidya Mathew, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 17}], "tag": "seen_name"}
+{"text": "Please call Pihu Kini on +91-7613407451 before 5 pm.", "entities": [{"type": "PERSON", "start": 12, "end": 21}, {"type": "PHONE", "start": 25, "end": 39}], "tag": "unseen_name"}
+{"text": "Transaction 154393585699 failed, please retry.", "entities": [], "tag": "hard_negative"}
+{"text": "My car number is RJ 25 M 4705, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 29}], "tag": "positive"}
+{"text": "Passport number K1143888 expires next year.", "entities": [{"type": "PASSPORT", "start": 16, "end": 24}], "tag": "positive"}
+{"text": "Dear Usha Raman, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 15}], "tag": "seen_name"}
+{"text": "Booking PNR 5856127658 is confirmed for tomorrow.", "entities": [], "tag": "hard_negative"}
+{"text": "The login came from IP address 184.219.35.45 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 44}], "tag": "positive"}
+{"text": "Hi, this is Lakshmi Panda. Reach me at +91-8977034824 or lakshmipanda@gmail.com.", "entities": [{"type": "PERSON", "start": 12, "end": 25}, {"type": "PHONE", "start": 39, "end": 53}, {"type": "EMAIL", "start": 57, "end": 79}], "tag": "seen_name"}
+{"text": "We sold 688730 units in the last quarter.", "entities": [], "tag": "hard_negative"}
+{"text": "My car number is DL 24 CK 3466, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "The login came from IP address 176.87.128.91 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 44}], "tag": "positive"}
+{"text": "Hi, this is Usha Raman. Reach me at 7796603341 or usharaman24@outlook.com.", "entities": [{"type": "PERSON", "start": 12, "end": 22}, {"type": "PHONE", "start": 36, "end": 46}, {"type": "EMAIL", "start": 50, "end": 73}], "tag": "seen_name"}
+{"text": "Customer Shalini Bajaj shared PAN KZDCG3116R for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 22}, {"type": "PAN", "start": 34, "end": 44}], "tag": "seen_name"}
+{"text": "Our GSTIN is 31JRAPN2194I6ZK, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "Customer Senthil Krishnan shared PAN KRLCG9870Q for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 25}, {"type": "PAN", "start": 37, "end": 47}], "tag": "seen_name"}
+{"text": "Refund to account 23651994101, IFSC ICIC0721510.", "entities": [{"type": "BANK_ACCOUNT", "start": 18, "end": 29}, {"type": "IFSC", "start": 36, "end": 47}], "tag": "positive"}
+{"text": "Please call Rashmi Sinha on 76153 05152 before 5 pm.", "entities": [{"type": "PERSON", "start": 12, "end": 24}, {"type": "PHONE", "start": 28, "end": 39}], "tag": "seen_name"}
+{"text": "Your order ID 961959541483 has been shipped.", "entities": [], "tag": "hard_negative"}
+{"text": "Please upgrade to version 10.2.3.4 before the release.", "entities": [], "tag": "hard_negative"}
+{"text": "Aadhaar 9995 5271 7746 and mobile 8905814770 are linked for Akhil Parikh.", "entities": [{"type": "AADHAAR", "start": 8, "end": 22}, {"type": "PHONE", "start": 34, "end": 44}, {"type": "PERSON", "start": 60, "end": 72}], "tag": "seen_name"}
+{"text": "My name is Lavanya Kini and my Aadhaar is 5850 5064 1389.", "entities": [{"type": "PERSON", "start": 11, "end": 23}, {"type": "AADHAAR", "start": 42, "end": 56}], "tag": "unseen_name"}
+{"text": "Invoice number 1417124022 is due on Friday.", "entities": [], "tag": "hard_negative"}
+{"text": "Hi, this is Ira Kale. Reach me at 77346 70656 or ira_kale@acme.in.", "entities": [{"type": "PERSON", "start": 12, "end": 20}, {"type": "PHONE", "start": 34, "end": 45}, {"type": "EMAIL", "start": 49, "end": 65}], "tag": "unseen_name"}
+{"text": "You can pay me at manoj417@okaxis via GPay.", "entities": [{"type": "UPI_ID", "start": 18, "end": 33}], "tag": "positive"}
+{"text": "My name is Arjun Jain and my Aadhaar is 3526 2181 5995.", "entities": [{"type": "PERSON", "start": 11, "end": 21}, {"type": "AADHAAR", "start": 40, "end": 54}], "tag": "seen_name"}
+{"text": "Transfer the salary of Usha Raman to 55744431351823 (IFSC ICIC0749894).", "entities": [{"type": "PERSON", "start": 23, "end": 33}, {"type": "BANK_ACCOUNT", "start": 37, "end": 51}, {"type": "IFSC", "start": 58, "end": 69}], "tag": "seen_name"}
+{"text": "Please call Vijay Jha on 6617445187 before 5 pm.", "entities": [{"type": "PERSON", "start": 12, "end": 21}, {"type": "PHONE", "start": 25, "end": 35}], "tag": "seen_name"}
+{"text": "Aadhaar 5564 6519 3988 and mobile 78073 74167 are linked for Keshav Walker.", "entities": [{"type": "AADHAAR", "start": 8, "end": 22}, {"type": "PHONE", "start": 34, "end": 45}, {"type": "PERSON", "start": 61, "end": 74}], "tag": "unseen_name"}
+{"text": "The login came from IP address 152.85.189.43 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 44}], "tag": "positive"}
+{"text": "Yuki Walker lives in Jaipur and was born on 13/05/1983.", "entities": [{"type": "PERSON", "start": 0, "end": 11}, {"type": "LOCATION", "start": 21, "end": 27}, {"type": "DATE_OF_BIRTH", "start": 44, "end": 54}], "tag": "unseen_name"}
+{"text": "Send the invoice to rashmi_aggarwal@acme.in and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 43}], "tag": "positive"}
+{"text": "Dear Rashmi Aggarwal, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 20}], "tag": "seen_name"}
+{"text": "Aadhaar 6777 5204 7117 and mobile 97190 22941 are linked for Shalini Choudhary.", "entities": [{"type": "AADHAAR", "start": 8, "end": 22}, {"type": "PHONE", "start": 34, "end": 45}, {"type": "PERSON", "start": 61, "end": 78}], "tag": "seen_name"}
+{"text": "Transaction 180952622657 failed, please retry.", "entities": [], "tag": "hard_negative"}
+{"text": "Aadhaar 7241 9138 0006 and mobile 70756 22086 are linked for Yuvraj Rege.", "entities": [{"type": "AADHAAR", "start": 8, "end": 22}, {"type": "PHONE", "start": 34, "end": 45}, {"type": "PERSON", "start": 61, "end": 72}], "tag": "unseen_name"}
+{"text": "Please call Kiran Das on 6139837354 before 5 pm.", "entities": [{"type": "PERSON", "start": 12, "end": 21}, {"type": "PHONE", "start": 25, "end": 35}], "tag": "seen_name"}
+{"text": "Refund to account 83667525459, IFSC KKBK0102290.", "entities": [{"type": "BANK_ACCOUNT", "start": 18, "end": 29}, {"type": "IFSC", "start": 36, "end": 47}], "tag": "positive"}
+{"text": "Send the invoice to emma.lopez52@outlook.com and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 44}], "tag": "positive"}
+{"text": "Hi, this is Jatin Mukherjee. Reach me at +91-9603669096 or jatin.mukherjee46@acme.in.", "entities": [{"type": "PERSON", "start": 12, "end": 27}, {"type": "PHONE", "start": 41, "end": 55}, {"type": "EMAIL", "start": 59, "end": 84}], "tag": "seen_name"}
+{"text": "Transaction 720094838096 failed, please retry.", "entities": [], "tag": "hard_negative"}
+{"text": "Rashmi Aggarwal lives in Kochi and was born on 20/01/1982.", "entities": [{"type": "PERSON", "start": 0, "end": 15}, {"type": "LOCATION", "start": 25, "end": 30}, {"type": "DATE_OF_BIRTH", "start": 47, "end": 57}], "tag": "seen_name"}
+{"text": "The total comes to Rs 5,001 including GST.", "entities": [], "tag": "hard_negative"}
+{"text": "My car number is KA 22 AB 9576, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "Escalate this to Siddharth Vohra in the Pune office.", "entities": [{"type": "PERSON", "start": 17, "end": 32}, {"type": "LOCATION", "start": 40, "end": 44}], "tag": "seen_name"}
+{"text": "You can pay me at om758@upi via GPay.", "entities": [{"type": "UPI_ID", "start": 18, "end": 27}], "tag": "positive"}
+{"text": "Escalate this to Siddharth Vohra in the Bengaluru office.", "entities": [{"type": "PERSON", "start": 17, "end": 32}, {"type": "LOCATION", "start": 40, "end": 49}], "tag": "seen_name"}
+{"text": "Summarise the quarterly report in three bullet points.", "entities": [], "tag": "hard_negative"}
+{"text": "Your order ID 483685716175 has been shipped.", "entities": [], "tag": "hard_negative"}
+{"text": "The meeting moved to 3 pm in conference room 4.", "entities": [], "tag": "hard_negative"}
+{"text": "Contact Lavanya Kini at lavanya.kini83@yahoo.co.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 20}, {"type": "EMAIL", "start": 24, "end": 50}], "tag": "unseen_name"}
+{"text": "Escalate this to Nakul Fischer in the Indore office.", "entities": [{"type": "PERSON", "start": 17, "end": 30}, {"type": "LOCATION", "start": 38, "end": 44}], "tag": "unseen_name"}
+{"text": "The meeting moved to 3 pm in conference room 4.", "entities": [], "tag": "hard_negative"}
+{"text": "Escalate this to Manish Dhillon in the Hyderabad office.", "entities": [{"type": "PERSON", "start": 17, "end": 31}, {"type": "LOCATION", "start": 39, "end": 48}], "tag": "seen_name"}
+{"text": "Ship it to Sector 21, Noida 802765.", "entities": [{"type": "LOCATION", "start": 22, "end": 27}, {"type": "PIN_CODE", "start": 28, "end": 34}], "tag": "positive"}
+{"text": "Customer Rekha Kapoor shared PAN JJOFF7272L for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 21}, {"type": "PAN", "start": 33, "end": 43}], "tag": "seen_name"}
+{"text": "Contact Michael Johnson at michael_johnson48@acme.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 23}, {"type": "EMAIL", "start": 27, "end": 52}], "tag": "unseen_name"}
+{"text": "Dear Vidya Mathew, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 17}], "tag": "seen_name"}
+{"text": "Card number 6085969691557921 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 28}], "tag": "positive"}
+{"text": "The meeting moved to 3 pm in conference room 4.", "entities": [], "tag": "hard_negative"}
+{"text": "Reference number 5559 0425 9792 for your complaint.", "entities": [], "tag": "hard_negative"}
+{"text": "Your order ID 942213564352 has been shipped.", "entities": [], "tag": "hard_negative"}
+{"text": "Customer Mahima Wagh shared PAN TTZCY8561M for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 20}, {"type": "PAN", "start": 32, "end": 42}], "tag": "unseen_name"}
+{"text": "Send the invoice to tarun_mehta@acme.in and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 39}], "tag": "positive"}
+{"text": "Escalate this to Sanjana Ali in the Pune office.", "entities": [{"type": "PERSON", "start": 17, "end": 28}, {"type": "LOCATION", "start": 36, "end": 40}], "tag": "seen_name"}
+{"text": "Escalate this to Umesh Modi in the Chennai office.", "entities": [{"type": "PERSON", "start": 17, "end": 27}, {"type": "LOCATION", "start": 35, "end": 42}], "tag": "seen_name"}
+{"text": "You can pay me at shraddha651@upi via GPay.", "entities": [{"type": "UPI_ID", "start": 18, "end": 33}], "tag": "positive"}
+{"text": "You can pay me at emma593@okaxis via GPay.", "entities": [{"type": "UPI_ID", "start": 18, "end": 32}], "tag": "positive"}
+{"text": "Dear Daniel Kale, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 16}], "tag": "unseen_name"}
+{"text": "Our GSTIN is 19WOCCI9663V4ZT, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "Customer Sarita Hussain shared PAN MQCFJ5562H for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 23}, {"type": "PAN", "start": 35, "end": 45}], "tag": "seen_name"}
+{"text": "Hi, this is Devansh Bose. Reach me at 76763 20163 or devanshbose67@gmail.com.", "entities": [{"type": "PERSON", "start": 12, "end": 24}, {"type": "PHONE", "start": 38, "end": 49}, {"type": "EMAIL", "start": 53, "end": 76}], "tag": "unseen_name"}
+{"text": "Dear Shalini Bajaj, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 18}], "tag": "seen_name"}
+{"text": "Customer Hrithik Tanaka shared PAN IDDCI4616T for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 23}, {"type": "PAN", "start": 35, "end": 45}], "tag": "unseen_name"}
+{"text": "Senthil Krishnan lives in Ahmedabad and was born on 04/07/1967.", "entities": [{"type": "PERSON", "start": 0, "end": 16}, {"type": "LOCATION", "start": 26, "end": 35}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 62}], "tag": "seen_name"}
+{"text": "Refund to account 11161528098, IFSC KKBK0516560.", "entities": [{"type": "BANK_ACCOUNT", "start": 18, "end": 29}, {"type": "IFSC", "start": 36, "end": 47}], "tag": "positive"}
+{"text": "Please call Nisha Krishnan on 92779 01043 before 5 pm.", "entities": [{"type": "PERSON", "start": 12, "end": 26}, {"type": "PHONE", "start": 30, "end": 41}], "tag": "seen_name"}
+{"text": "You can pay me at sarah870@paytm via GPay.", "entities": [{"type": "UPI_ID", "start": 18, "end": 32}], "tag": "positive"}
+{"text": "Passport number T2883552 expires next year.", "entities": [{"type": "PASSPORT", "start": 16, "end": 24}], "tag": "positive"}
+{"text": "Card number 5221 9933 0833 0164 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 31}], "tag": "positive"}
+{"text": "The total comes to Rs 36,288 including GST.", "entities": [], "tag": "hard_negative"}
+{"text": "Customer Yuki Rege shared PAN HLFHA8751E for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 18}, {"type": "PAN", "start": 30, "end": 40}], "tag": "unseen_name"}
+{"text": "Send the invoice to ashok.chatterjee20@acme.in and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 46}], "tag": "positive"}
+{"text": "Ticket 339513 was resolved by the support team.", "entities": [], "tag": "hard_negative"}
+{"text": "Ship it to Sector 21, Lucknow 702448.", "entities": [{"type": "LOCATION", "start": 22, "end": 29}, {"type": "PIN_CODE", "start": 30, "end": 36}], "tag": "positive"}
+{"text": "Transaction 317339892130 failed, please retry.", "entities": [], "tag": "hard_negative"}
+{"text": "Ship it to Sector 21, Bengaluru 177349.", "entities": [{"type": "LOCATION", "start": 22, "end": 31}, {"type": "PIN_CODE", "start": 32, "end": 38}], "tag": "positive"}
+{"text": "Aadhaar 2260 6474 6874 and mobile 7343098050 are linked for Harleen Modi.", "entities": [{"type": "AADHAAR", "start": 8, "end": 22}, {"type": "PHONE", "start": 34, "end": 44}, {"type": "PERSON", "start": 60, "end": 72}], "tag": "seen_name"}
+{"text": "Contact Harpreet Sinha at harpreetsinha@company.co.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 22}, {"type": "EMAIL", "start": 26, "end": 53}], "tag": "seen_name"}
+{"text": "Pranav Rao lives in Jaipur and was born on 23/05/1970.", "entities": [{"type": "PERSON", "start": 0, "end": 10}, {"type": "LOCATION", "start": 20, "end": 26}, {"type": "DATE_OF_BIRTH", "start": 43, "end": 53}], "tag": "seen_name"}
+{"text": "Hi, this is Priya Nayak. Reach me at 8925556258 or priya_nayak31@gmail.com.", "entities": [{"type": "PERSON", "start": 12, "end": 23}, {"type": "PHONE", "start": 37, "end": 47}, {"type": "EMAIL", "start": 51, "end": 74}], "tag": "seen_name"}
+{"text": "The meeting moved to 3 pm in conference room 4.", "entities": [], "tag": "hard_negative"}
+{"text": "Customer Carlos Sawant shared PAN JZXPT7775I for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 22}, {"type": "PAN", "start": 34, "end": 44}], "tag": "unseen_name"}
+{"text": "Send the invoice to tanvi.nair@gmail.com and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 40}], "tag": "positive"}
+{"text": "Our GSTIN is 07SQGCV7900H2ZS, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "Customer Shraddha Chavan shared PAN LCLFS1655K for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 24}, {"type": "PAN", "start": 36, "end": 46}], "tag": "unseen_name"}
+{"text": "Parth Brown lives in Hyderabad and was born on 25/12/1993.", "entities": [{"type": "PERSON", "start": 0, "end": 11}, {"type": "LOCATION", "start": 21, "end": 30}, {"type": "DATE_OF_BIRTH", "start": 47, "end": 57}], "tag": "unseen_name"}
+{"text": "Escalate this to Sanjana Ali in the Bengaluru office.", "entities": [{"type": "PERSON", "start": 17, "end": 28}, {"type": "LOCATION", "start": 36, "end": 45}], "tag": "seen_name"}
+{"text": "Shankar Pillai lives in Gurugram and was born on 03/08/1988.", "entities": [{"type": "PERSON", "start": 0, "end": 14}, {"type": "LOCATION", "start": 24, "end": 32}, {"type": "DATE_OF_BIRTH", "start": 49, "end": 59}], "tag": "seen_name"}
+{"text": "My car number is UP 19 CK 4084, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "Hi, this is Rajat Ahuja. Reach me at +91-7410369711 or rajatahuja@company.co.in.", "entities": [{"type": "PERSON", "start": 12, "end": 23}, {"type": "PHONE", "start": 37, "end": 51}, {"type": "EMAIL", "start": 55, "end": 79}], "tag": "seen_name"}
+{"text": "Passport number P5549480 expires next year.", "entities": [{"type": "PASSPORT", "start": 16, "end": 24}], "tag": "positive"}
+{"text": "Refund to account 277221704303, IFSC HDFC0548687.", "entities": [{"type": "BANK_ACCOUNT", "start": 18, "end": 30}, {"type": "IFSC", "start": 37, "end": 48}], "tag": "positive"}
+{"text": "Please call Michael Sawant on +91-8156676527 before 5 pm.", "entities": [{"type": "PERSON", "start": 12, "end": 26}, {"type": "PHONE", "start": 30, "end": 44}], "tag": "unseen_name"}
+{"text": "Our GSTIN is 33RPWHP0272L6Z8, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "My car number is TN 26 AB 7955, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "Summarise the quarterly report in three bullet points.", "entities": [], "tag": "hard_negative"}
+{"text": "Ship it to Sector 21, Mumbai 636492.", "entities": [{"type": "LOCATION", "start": 22, "end": 28}, {"type": "PIN_CODE", "start": 29, "end": 35}], "tag": "positive"}
+{"text": "Passport number J5754121 expires next year.", "entities": [{"type": "PASSPORT", "start": 16, "end": 24}], "tag": "positive"}
+{"text": "Aadhaar 6004 9915 4780 and mobile +91 92874 31527 are linked for Usha Raman.", "entities": [{"type": "AADHAAR", "start": 8, "end": 22}, {"type": "PHONE", "start": 34, "end": 49}, {"type": "PERSON", "start": 65, "end": 75}], "tag": "seen_name"}
+{"text": "Ticket 786837 was resolved by the support team.", "entities": [], "tag": "hard_negative"}
+{"text": "Ticket 775990 was resolved by the support team.", "entities": [], "tag": "hard_negative"}
+{"text": "Devansh Bose lives in Noida and was born on 22 Jan 1986.", "entities": [{"type": "PERSON", "start": 0, "end": 12}, {"type": "LOCATION", "start": 22, "end": 27}, {"type": "DATE_OF_BIRTH", "start": 44, "end": 55}], "tag": "unseen_name"}
+{"text": "My car number is GJ 20 AB 7311, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "Tracking ID 294956797994 is out for delivery.", "entities": [], "tag": "hard_negative"}
+{"text": "The login came from IP address 35.23.85.109 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 43}], "tag": "positive"}
+{"text": "Transaction 705799002193 failed, please retry.", "entities": [], "tag": "hard_negative"}
+{"text": "Hi, this is Yuki Walker. Reach me at 7375243106 or yuki.walker@gmail.com.", "entities": [{"type": "PERSON", "start": 12, "end": 23}, {"type": "PHONE", "start": 37, "end": 47}, {"type": "EMAIL", "start": 51, "end": 72}], "tag": "unseen_name"}
+{"text": "Escalate this to Charvi Brown in the Pune office.", "entities": [{"type": "PERSON", "start": 17, "end": 29}, {"type": "LOCATION", "start": 37, "end": 41}], "tag": "unseen_name"}
+{"text": "Nakul Fischer lives in Chennai and was born on 13 March 1967.", "entities": [{"type": "PERSON", "start": 0, "end": 13}, {"type": "LOCATION", "start": 23, "end": 30}, {"type": "DATE_OF_BIRTH", "start": 47, "end": 60}], "tag": "unseen_name"}
+{"text": "Send the invoice to shraddhanagpal@acme.in and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 42}], "tag": "positive"}
+{"text": "You can pay me at manish569@paytm via GPay.", "entities": [{"type": "UPI_ID", "start": 18, "end": 33}], "tag": "positive"}
+{"text": "My name is Daniel Kini and my Aadhaar is 2275 8842 5242.", "entities": [{"type": "PERSON", "start": 11, "end": 22}, {"type": "AADHAAR", "start": 41, "end": 55}], "tag": "unseen_name"}
+{"text": "Please upgrade to version 10.2.3.4 before the release.", "entities": [], "tag": "hard_negative"}
+{"text": "Ship it to Sector 21, Ahmedabad 127032.", "entities": [{"type": "LOCATION", "start": 22, "end": 31}, {"type": "PIN_CODE", "start": 32, "end": 38}], "tag": "positive"}
+{"text": "We sold 699121 units in the last quarter.", "entities": [], "tag": "hard_negative"}
+{"text": "Our GSTIN is 30BRNFR8683E7ZS, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "The total comes to Rs 45,358 including GST.", "entities": [], "tag": "hard_negative"}
+{"text": "Dear Esha Luthra, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 16}], "tag": "unseen_name"}
+{"text": "Passport number T7449251 expires next year.", "entities": [{"type": "PASSPORT", "start": 16, "end": 24}], "tag": "positive"}
+{"text": "Customer Lavanya Kini shared PAN KZNHQ1046I for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 21}, {"type": "PAN", "start": 33, "end": 43}], "tag": "unseen_name"}
+{"text": "Invoice number 3313346852 is due on Friday.", "entities": [], "tag": "hard_negative"}
+{"text": "You can pay me at omkar230@okaxis via GPay.", "entities": [{"type": "UPI_ID", "start": 18, "end": 33}], "tag": "positive"}
+{"text": "Card number 6067 6772 1903 4040 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 31}], "tag": "positive"}
+{"text": "Card number 5178 5477 7252 2871 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 31}], "tag": "positive"}
+{"text": "Ship it to Sector 21, Gurugram 799238.", "entities": [{"type": "LOCATION", "start": 22, "end": 30}, {"type": "PIN_CODE", "start": 31, "end": 37}], "tag": "positive"}
+{"text": "Tracking ID 799066848813 is out for delivery.", "entities": [], "tag": "hard_negative"}
+{"text": "Tracking ID 518975545303 is out for delivery.", "entities": [], "tag": "hard_negative"}
+{"text": "Customer Emma Rege shared PAN UGIPF3929F for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 18}, {"type": "PAN", "start": 30, "end": 40}], "tag": "unseen_name"}
+{"text": "My car number is DL 24 AB 6447, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "Ticket 621533 was resolved by the support team.", "entities": [], "tag": "hard_negative"}
+{"text": "Hi, this is Hrithik Fischer. Reach me at +91 87773 87214 or hrithik.fischer@outlook.com.", "entities": [{"type": "PERSON", "start": 12, "end": 27}, {"type": "PHONE", "start": 41, "end": 56}, {"type": "EMAIL", "start": 60, "end": 87}], "tag": "unseen_name"}
+{"text": "Our GSTIN is 14WWPHP5714R5ZG, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "Ticket 634160 was resolved by the support team.", "entities": [], "tag": "hard_negative"}
+{"text": "My name is Keshav Walker and my Aadhaar is 7787 5985 6420.", "entities": [{"type": "PERSON", "start": 11, "end": 24}, {"type": "AADHAAR", "start": 43, "end": 57}], "tag": "unseen_name"}
+{"text": "Escalate this to Omkar Nagpal in the Indore office.", "entities": [{"type": "PERSON", "start": 17, "end": 29}, {"type": "LOCATION", "start": 37, "end": 43}], "tag": "unseen_name"}
+{"text": "Please upgrade to version 10.2.3.4 before the release.", "entities": [], "tag": "hard_negative"}
+{"text": "The total comes to Rs 49,445 including GST.", "entities": [], "tag": "hard_negative"}
+{"text": "Summarise the quarterly report in three bullet points.", "entities": [], "tag": "hard_negative"}
+{"text": "DOB: 4 Jan 1984, PAN: KTMHO5484N, phone: +91 74593 75265.", "entities": [{"type": "DATE_OF_BIRTH", "start": 5, "end": 15}, {"type": "PAN", "start": 22, "end": 32}, {"type": "PHONE", "start": 41, "end": 56}], "tag": "positive"}
+{"text": "Tracking ID 227726057596 is out for delivery.", "entities": [], "tag": "hard_negative"}
+{"text": "DOB: 10/09/1989, PAN: VWXPU6937Q, phone: 80542 35733.", "entities": [{"type": "DATE_OF_BIRTH", "start": 5, "end": 15}, {"type": "PAN", "start": 22, "end": 32}, {"type": "PHONE", "start": 41, "end": 52}], "tag": "positive"}
+{"text": "DOB: 22/12/1968, PAN: MOHCY0924E, phone: 83959 95342.", "entities": [{"type": "DATE_OF_BIRTH", "start": 5, "end": 15}, {"type": "PAN", "start": 22, "end": 32}, {"type": "PHONE", "start": 41, "end": 52}], "tag": "positive"}
+{"text": "Michael Johnson lives in Hyderabad and was born on 22 Jan 1967.", "entities": [{"type": "PERSON", "start": 0, "end": 15}, {"type": "LOCATION", "start": 25, "end": 34}, {"type": "DATE_OF_BIRTH", "start": 51, "end": 62}], "tag": "unseen_name"}
+{"text": "Invoice number 8144352013 is due on Friday.", "entities": [], "tag": "hard_negative"}
+{"text": "Contact Tarun Mehta at tarunmehta12@outlook.com about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 19}, {"type": "EMAIL", "start": 23, "end": 47}], "tag": "seen_name"}
+{"text": "Ship it to Sector 21, Lucknow 721485.", "entities": [{"type": "LOCATION", "start": 22, "end": 29}, {"type": "PIN_CODE", "start": 30, "end": 36}], "tag": "positive"}
+{"text": "My name is Devansh Bose and my Aadhaar is 8902 9593 9176.", "entities": [{"type": "PERSON", "start": 11, "end": 23}, {"type": "AADHAAR", "start": 42, "end": 56}], "tag": "unseen_name"}
+{"text": "Hi, this is Sarah Brown. Reach me at +91 67459 61586 or sarahbrown92@company.co.in.", "entities": [{"type": "PERSON", "start": 12, "end": 23}, {"type": "PHONE", "start": 37, "end": 52}, {"type": "EMAIL", "start": 56, "end": 82}], "tag": "unseen_name"}
+{"text": "Card number 5132719374529910 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 28}], "tag": "positive"}
+{"text": "Refund to account 786527858549, IFSC UTIB0334843.", "entities": [{"type": "BANK_ACCOUNT", "start": 18, "end": 30}, {"type": "IFSC", "start": 37, "end": 48}], "tag": "positive"}
+{"text": "Refund to account 505331586923, IFSC ICIC0260256.", "entities": [{"type": "BANK_ACCOUNT", "start": 18, "end": 30}, {"type": "IFSC", "start": 37, "end": 48}], "tag": "positive"}
+{"text": "Hi, this is Charvi Bose. Reach me at +91 70316 17990 or charvibose@gmail.com.", "entities": [{"type": "PERSON", "start": 12, "end": 23}, {"type": "PHONE", "start": 37, "end": 52}, {"type": "EMAIL", "start": 56, "end": 76}], "tag": "unseen_name"}
+{"text": "Escalate this to Sana Thomas in the Pune office.", "entities": [{"type": "PERSON", "start": 17, "end": 28}, {"type": "LOCATION", "start": 36, "end": 40}], "tag": "seen_name"}
+{"text": "Summarise the quarterly report in three bullet points.", "entities": [], "tag": "hard_negative"}
+{"text": "Contact Charvi Brown at charvi_brown40@yahoo.co.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 20}, {"type": "EMAIL", "start": 24, "end": 50}], "tag": "unseen_name"}
+{"text": "We sold 819368 units in the last quarter.", "entities": [], "tag": "hard_negative"}
+{"text": "Transaction 639545619124 failed, please retry.", "entities": [], "tag": "hard_negative"}
+{"text": "Reference number 5557 7027 2785 for your complaint.", "entities": [], "tag": "hard_negative"}
+{"text": "The total comes to Rs 83,844 including GST.", "entities": [], "tag": "hard_negative"}
+{"text": "Transfer the salary of Kiran Das to 97187072867 (IFSC KKBK0087406).", "entities": [{"type": "PERSON", "start": 23, "end": 32}, {"type": "BANK_ACCOUNT", "start": 36, "end": 47}, {"type": "IFSC", "start": 54, "end": 65}], "tag": "seen_name"}
+{"text": "Contact Ashok Chatterjee at ashokchatterjee@outlook.com about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 24}, {"type": "EMAIL", "start": 28, "end": 55}], "tag": "seen_name"}
+{"text": "We sold 446663 units in the last quarter.", "entities": [], "tag": "hard_negative"}
+{"text": "You can pay me at priyanka625@upi via GPay.", "entities": [{"type": "UPI_ID", "start": 18, "end": 33}], "tag": "positive"}
+{"text": "Invoice number 7873001834 is due on Friday.", "entities": [], "tag": "hard_negative"}
+{"text": "Our GSTIN is 28ZUPHF9207W6Z3, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}
+{"text": "Refund to account 79640537735, IFSC HDFC0585064.", "entities": [{"type": "BANK_ACCOUNT", "start": 18, "end": 29}, {"type": "IFSC", "start": 36, "end": 47}], "tag": "positive"}
+{"text": "Please call Satish Iyer on 6497310324 before 5 pm.", "entities": [{"type": "PERSON", "start": 12, "end": 23}, {"type": "PHONE", "start": 27, "end": 37}], "tag": "seen_name"}
+{"text": "Dear Yuvraj Luthra, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 18}], "tag": "unseen_name"}
+{"text": "Your order ID 954465343288 has been shipped.", "entities": [], "tag": "hard_negative"}
+{"text": "Customer Devansh Bose shared PAN HSTPT1343N for the KYC update.", "entities": [{"type": "PERSON", "start": 9, "end": 21}, {"type": "PAN", "start": 33, "end": 43}], "tag": "unseen_name"}
+{"text": "Contact Rashmi Aggarwal at rashmi_aggarwal@company.co.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 23}, {"type": "EMAIL", "start": 27, "end": 56}], "tag": "seen_name"}
+{"text": "Send the invoice to gaurav.sethi70@outlook.com and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 46}], "tag": "positive"}
+{"text": "My car number is TN 21 AB 2229, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "Card number 4616 3294 5116 8687 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 31}], "tag": "positive"}
+{"text": "Aadhaar 7655 1256 7465 and mobile +91-6715451680 are linked for Daniel Kale.", "entities": [{"type": "AADHAAR", "start": 8, "end": 22}, {"type": "PHONE", "start": 34, "end": 48}, {"type": "PERSON", "start": 64, "end": 75}], "tag": "unseen_name"}
+{"text": "Escalate this to Hrithik Fischer in the Indore office.", "entities": [{"type": "PERSON", "start": 17, "end": 32}, {"type": "LOCATION", "start": 40, "end": 46}], "tag": "unseen_name"}
+{"text": "Dear Umesh Modi, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 15}], "tag": "seen_name"}
+{"text": "Please upgrade to version 10.2.3.4 before the release.", "entities": [], "tag": "hard_negative"}
+{"text": "Ship it to Sector 21, Chennai 463895.", "entities": [{"type": "LOCATION", "start": 22, "end": 29}, {"type": "PIN_CODE", "start": 30, "end": 36}], "tag": "positive"}
+{"text": "Hi, this is Rakesh Gandhi. Reach me at 7424154152 or rakesh_gandhi81@yahoo.co.in.", "entities": [{"type": "PERSON", "start": 12, "end": 25}, {"type": "PHONE", "start": 39, "end": 49}, {"type": "EMAIL", "start": 53, "end": 80}], "tag": "seen_name"}
+{"text": "The login came from IP address 123.31.164.21 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 44}], "tag": "positive"}
+{"text": "Send the invoice to ira.kale@yahoo.co.in and cc the finance team.", "entities": [{"type": "EMAIL", "start": 20, "end": 40}], "tag": "positive"}
+{"text": "Hi, this is Tushar Kohli. Reach me at +91 73095 84982 or tusharkohli38@company.co.in.", "entities": [{"type": "PERSON", "start": 12, "end": 24}, {"type": "PHONE", "start": 38, "end": 53}, {"type": "EMAIL", "start": 57, "end": 84}], "tag": "seen_name"}
+{"text": "Dear Tanvi Nair, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 15}], "tag": "seen_name"}
+{"text": "Card number 5287401640052422 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 28}], "tag": "positive"}
+{"text": "Escalate this to Emma Lopez in the Kolkata office.", "entities": [{"type": "PERSON", "start": 17, "end": 27}, {"type": "LOCATION", "start": 35, "end": 42}], "tag": "unseen_name"}
+{"text": "Reference number 4138 6589 0260 for your complaint.", "entities": [], "tag": "hard_negative"}
+{"text": "The meeting moved to 3 pm in conference room 4.", "entities": [], "tag": "hard_negative"}
+{"text": "My car number is TN 08 AB 1424, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "Transaction 231502011423 failed, please retry.", "entities": [], "tag": "hard_negative"}
+{"text": "Contact Manish Dhillon at manish.dhillon39@yahoo.co.in about the onboarding documents.", "entities": [{"type": "PERSON", "start": 8, "end": 22}, {"type": "EMAIL", "start": 26, "end": 54}], "tag": "seen_name"}
+{"text": "Please upgrade to version 10.2.3.4 before the release.", "entities": [], "tag": "hard_negative"}
+{"text": "Om Garg lives in Nagpur and was born on 18/06/2004.", "entities": [{"type": "PERSON", "start": 0, "end": 7}, {"type": "LOCATION", "start": 17, "end": 23}, {"type": "DATE_OF_BIRTH", "start": 40, "end": 50}], "tag": "seen_name"}
+{"text": "My name is Vignesh Verma and my Aadhaar is 2407 8593 2138.", "entities": [{"type": "PERSON", "start": 11, "end": 24}, {"type": "AADHAAR", "start": 43, "end": 57}], "tag": "seen_name"}
+{"text": "Hi, this is Sunita Jha. Reach me at 7827422579 or sunita_jha2@yahoo.co.in.", "entities": [{"type": "PERSON", "start": 12, "end": 22}, {"type": "PHONE", "start": 36, "end": 46}, {"type": "EMAIL", "start": 50, "end": 73}], "tag": "seen_name"}
+{"text": "Summarise the quarterly report in three bullet points.", "entities": [], "tag": "hard_negative"}
+{"text": "Dear Sanjana Ali, your loan application has been approved.", "entities": [{"type": "PERSON", "start": 5, "end": 16}], "tag": "seen_name"}
+{"text": "My car number is MH 13 ZX 1713, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "The login came from IP address 18.114.126.153 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 45}], "tag": "positive"}
+{"text": "Ticket 540656 was resolved by the support team.", "entities": [], "tag": "hard_negative"}
+{"text": "Please upgrade to version 10.2.3.4 before the release.", "entities": [], "tag": "hard_negative"}
+{"text": "Card number 6005895782911460 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 28}], "tag": "positive"}
+{"text": "We sold 360316 units in the last quarter.", "entities": [], "tag": "hard_negative"}
+{"text": "Refund to account 55215704331, IFSC SBIN0410067.", "entities": [{"type": "BANK_ACCOUNT", "start": 18, "end": 29}, {"type": "IFSC", "start": 36, "end": 47}], "tag": "positive"}
+{"text": "Reference number 4818 2688 6153 for your complaint.", "entities": [], "tag": "hard_negative"}
+{"text": "Card number 5243303654145865 was declined at checkout.", "entities": [{"type": "CREDIT_CARD", "start": 12, "end": 28}], "tag": "positive"}
+{"text": "The login came from IP address 174.106.38.183 at midnight.", "entities": [{"type": "IP_ADDRESS", "start": 31, "end": 45}], "tag": "positive"}
+{"text": "My car number is RJ 19 CK 9674, it was parked outside.", "entities": [{"type": "VEHICLE_REG", "start": 17, "end": 30}], "tag": "positive"}
+{"text": "You can pay me at senthil936@paytm via GPay.", "entities": [{"type": "UPI_ID", "start": 18, "end": 34}], "tag": "positive"}
+{"text": "Reference number 8789 9405 3910 for your complaint.", "entities": [], "tag": "hard_negative"}
+{"text": "Aadhaar 4082 6773 4543 and mobile +91-6193802620 are linked for Tarun Mehta.", "entities": [{"type": "AADHAAR", "start": 8, "end": 22}, {"type": "PHONE", "start": 34, "end": 48}, {"type": "PERSON", "start": 64, "end": 75}], "tag": "seen_name"}
+{"text": "Please call Siddharth Vohra on 80392 61429 before 5 pm.", "entities": [{"type": "PERSON", "start": 12, "end": 27}, {"type": "PHONE", "start": 31, "end": 42}], "tag": "seen_name"}
+{"text": "Passport number S3982595 expires next year.", "entities": [{"type": "PASSPORT", "start": 16, "end": 24}], "tag": "positive"}
+{"text": "The total comes to Rs 15,544 including GST.", "entities": [], "tag": "hard_negative"}
+{"text": "Hi, this is Priya Nayak. Reach me at +91 74472 09993 or priya_nayak53@gmail.com.", "entities": [{"type": "PERSON", "start": 12, "end": 23}, {"type": "PHONE", "start": 37, "end": 52}, {"type": "EMAIL", "start": 56, "end": 79}], "tag": "seen_name"}
+{"text": "Our GSTIN is 06VEKPH5003D3ZG, please add it to the bill.", "entities": [{"type": "GSTIN", "start": 13, "end": 28}], "tag": "positive"}

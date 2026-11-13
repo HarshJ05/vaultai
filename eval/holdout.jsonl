@@ -1,0 +1,420 @@
+{"text": "Shalini Choudhary (shalinichoudhary68@yahoo.co.in) asked us to change the registered mobile to 9407942607.", "entities": [{"type": "PERSON", "start": 0, "end": 17}, {"type": "EMAIL", "start": 19, "end": 49}, {"type": "PHONE", "start": 95, "end": 105}], "tag": "seen_name"}
+{"text": "The applicant's PAN is GUMFS5224D and date of birth 14/09/1985.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 62}], "tag": "positive"}
+{"text": "OTP 862746 is valid for ten minutes.", "entities": [], "tag": "hard_negative"}
+{"text": "Your complaint reference is 8776 9593 5035.", "entities": [], "tag": "hard_negative"}
+{"text": "Nakul Walker (nakul.walker94@yahoo.co.in) asked us to change the registered mobile to +91-8735736385.", "entities": [{"type": "PERSON", "start": 0, "end": 12}, {"type": "EMAIL", "start": 14, "end": 40}, {"type": "PHONE", "start": 86, "end": 100}], "tag": "unseen_name"}
+{"text": "Can you whatsapp Devansh Bose on +91-9179785575? She is travelling to Kolkata.", "entities": [{"type": "PERSON", "start": 17, "end": 29}, {"type": "PHONE", "start": 33, "end": 47}, {"type": "LOCATION", "start": 70, "end": 77}], "tag": "unseen_name"}
+{"text": "Please book a cab for Charvi Bose from Bhopal airport.", "entities": [{"type": "PERSON", "start": 22, "end": 33}, {"type": "LOCATION", "start": 39, "end": 45}], "tag": "unseen_name"}
+{"text": "Venkat Thakur (venkat_thakur@outlook.com) asked us to change the registered mobile to +91-6052791372.", "entities": [{"type": "PERSON", "start": 0, "end": 13}, {"type": "EMAIL", "start": 15, "end": 40}, {"type": "PHONE", "start": 86, "end": 100}], "tag": "seen_name"}
+{"text": "Thanks Satish Iyer, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 18}], "tag": "seen_name"}
+{"text": "I paid using my debit card 5176 7094 0985 8464 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "The applicant's PAN is PCXFC2030F and date of birth 25 March 1979.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 65}], "tag": "positive"}
+{"text": "Claim number 681091301130 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "We noticed suspicious activity from 14.205.102.109; the account belongs to Michael Bose.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 50}, {"type": "PERSON", "start": 75, "end": 87}], "tag": "unseen_name"}
+{"text": "OTP 612141 is valid for ten minutes.", "entities": [], "tag": "hard_negative"}
+{"text": "Kindly verify the identity of Pranav Rao, Aadhaar no. 6284 5142 0381, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 40}, {"type": "AADHAAR", "start": 54, "end": 68}], "tag": "seen_name"}
+{"text": "Thanks Nisha Krishnan, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 21}], "tag": "seen_name"}
+{"text": "Thanks Umesh Modi, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 17}], "tag": "seen_name"}
+{"text": "The applicant's PAN is IOOFM3186V and date of birth 26/09/1998.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 62}], "tag": "positive"}
+{"text": "SKU 3874800298 is out of stock in all warehouses.", "entities": [], "tag": "hard_negative"}
+{"text": "Thanks Mahesh Nayak, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 19}], "tag": "seen_name"}
+{"text": "Please book a cab for Shraddha Chavan from Ahmedabad airport.", "entities": [{"type": "PERSON", "start": 22, "end": 37}, {"type": "LOCATION", "start": 43, "end": 52}], "tag": "unseen_name"}
+{"text": "I paid using my debit card 5114335918381494 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 43}], "tag": "positive"}
+{"text": "Please book a cab for Nakul Fischer from Noida airport.", "entities": [{"type": "PERSON", "start": 22, "end": 35}, {"type": "LOCATION", "start": 41, "end": 46}], "tag": "unseen_name"}
+{"text": "The applicant's PAN is TLUPN3850K and date of birth 10 Jan 1971.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 63}], "tag": "positive"}
+{"text": "Pickup address: Flat 12, MG Road, Mumbai - 708563.", "entities": [{"type": "LOCATION", "start": 34, "end": 40}, {"type": "PIN_CODE", "start": 43, "end": 49}], "tag": "positive"}
+{"text": "Pickup address: Flat 12, MG Road, Hyderabad - 839752.", "entities": [{"type": "LOCATION", "start": 34, "end": 43}, {"type": "PIN_CODE", "start": 46, "end": 52}], "tag": "positive"}
+{"text": "Claim number 331253990688 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "We noticed suspicious activity from 214.123.59.24; the account belongs to Ira Walker.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 49}, {"type": "PERSON", "start": 74, "end": 84}], "tag": "unseen_name"}
+{"text": "Claim number 615199749261 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "Pickup address: Flat 12, MG Road, Gurugram - 672225.", "entities": [{"type": "LOCATION", "start": 34, "end": 42}, {"type": "PIN_CODE", "start": 45, "end": 51}], "tag": "positive"}
+{"text": "We noticed suspicious activity from 60.200.79.58; the account belongs to Charvi Bose.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 48}, {"type": "PERSON", "start": 73, "end": 84}], "tag": "unseen_name"}
+{"text": "Send Rs 500 to pranav418@okhdfcbank for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 35}], "tag": "positive"}
+{"text": "Kindly verify the identity of Prakash Qureshi, Aadhaar no. 6502 8316 6324, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 45}, {"type": "AADHAAR", "start": 59, "end": 73}], "tag": "seen_name"}
+{"text": "I paid using my debit card 6018 6340 5613 5752 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "Pickup address: Flat 12, MG Road, Gurugram - 604273.", "entities": [{"type": "LOCATION", "start": 34, "end": 42}, {"type": "PIN_CODE", "start": 45, "end": 51}], "tag": "positive"}
+{"text": "The applicant's PAN is SKHHT4426A and date of birth 22 Aug 1975.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 63}], "tag": "positive"}
+{"text": "Thanks Priya Nayak, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 18}], "tag": "seen_name"}
+{"text": "Beneficiary: Lakshmi Panda, A/C 441930399551, branch code PUNB0566979.", "entities": [{"type": "PERSON", "start": 13, "end": 26}, {"type": "BANK_ACCOUNT", "start": 32, "end": 44}, {"type": "IFSC", "start": 58, "end": 69}], "tag": "seen_name"}
+{"text": "Claim number 454086726882 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "AWB 285028841011 reached the sorting facility.", "entities": [], "tag": "hard_negative"}
+{"text": "Pickup address: Flat 12, MG Road, Bhopal - 348132.", "entities": [{"type": "LOCATION", "start": 34, "end": 40}, {"type": "PIN_CODE", "start": 43, "end": 49}], "tag": "positive"}
+{"text": "AWB 319032883391 reached the sorting facility.", "entities": [], "tag": "hard_negative"}
+{"text": "Please book a cab for Pranav Rao from Bengaluru airport.", "entities": [{"type": "PERSON", "start": 22, "end": 32}, {"type": "LOCATION", "start": 38, "end": 47}], "tag": "seen_name"}
+{"text": "Revenue grew by 372012 rupees compared to last year.", "entities": [], "tag": "hard_negative"}
+{"text": "The applicant's PAN is QEQCZ4434Y and date of birth 28 March 1996.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 65}], "tag": "positive"}
+{"text": "I paid using my debit card 4102 0383 0040 3002 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "Serial number 5596036405 is covered under warranty.", "entities": [], "tag": "hard_negative"}
+{"text": "Please book a cab for Advait Wagh from Jaipur airport.", "entities": [{"type": "PERSON", "start": 22, "end": 33}, {"type": "LOCATION", "start": 39, "end": 45}], "tag": "unseen_name"}
+{"text": "Supplier GST number 15HQZHG0007Z6Z3 is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "Beneficiary: Lavanya Lopez, A/C 74476604713936, branch code PUNB0055049.", "entities": [{"type": "PERSON", "start": 13, "end": 26}, {"type": "BANK_ACCOUNT", "start": 32, "end": 46}, {"type": "IFSC", "start": 60, "end": 71}], "tag": "unseen_name"}
+{"text": "I paid using my debit card 5203 7205 6832 6604 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "Serial number 7343262554 is covered under warranty.", "entities": [], "tag": "hard_negative"}
+{"text": "Send Rs 500 to ritika397@paytm for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 30}], "tag": "positive"}
+{"text": "Please book a cab for Shraddha Kini from Ahmedabad airport.", "entities": [{"type": "PERSON", "start": 22, "end": 35}, {"type": "LOCATION", "start": 41, "end": 50}], "tag": "unseen_name"}
+{"text": "Pickup address: Flat 12, MG Road, Ahmedabad - 681502.", "entities": [{"type": "LOCATION", "start": 34, "end": 43}, {"type": "PIN_CODE", "start": 46, "end": 52}], "tag": "positive"}
+{"text": "Supplier GST number 18CQNPH4142B7ZW is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "SKU 8908208087 is out of stock in all warehouses.", "entities": [], "tag": "hard_negative"}
+{"text": "Please book a cab for Daniel Kale from Kolkata airport.", "entities": [{"type": "PERSON", "start": 22, "end": 33}, {"type": "LOCATION", "start": 39, "end": 46}], "tag": "unseen_name"}
+{"text": "The applicant's PAN is GLFFX6933O and date of birth 28 Aug 1978.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 63}], "tag": "positive"}
+{"text": "Her passport K8799229 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "I paid using my debit card 5257787943262700 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 43}], "tag": "positive"}
+{"text": "Claim number 986944658901 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "Please book a cab for Sunil Trivedi from Hyderabad airport.", "entities": [{"type": "PERSON", "start": 22, "end": 35}, {"type": "LOCATION", "start": 41, "end": 50}], "tag": "seen_name"}
+{"text": "AWB 315142309108 reached the sorting facility.", "entities": [], "tag": "hard_negative"}
+{"text": "Revenue grew by 379888 rupees compared to last year.", "entities": [], "tag": "hard_negative"}
+{"text": "Pickup address: Flat 12, MG Road, Mumbai - 633830.", "entities": [{"type": "LOCATION", "start": 34, "end": 40}, {"type": "PIN_CODE", "start": 43, "end": 49}], "tag": "positive"}
+{"text": "Her passport V9073702 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Beneficiary: Satish Iyer, A/C 668631665398, branch code PUNB0997453.", "entities": [{"type": "PERSON", "start": 13, "end": 24}, {"type": "BANK_ACCOUNT", "start": 30, "end": 42}, {"type": "IFSC", "start": 56, "end": 67}], "tag": "seen_name"}
+{"text": "OTP 903732 is valid for ten minutes.", "entities": [], "tag": "hard_negative"}
+{"text": "Send Rs 500 to sanjana173@okhdfcbank for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 36}], "tag": "positive"}
+{"text": "Her passport R2138759 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "I paid using my debit card 4594 9806 5585 6257 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "Please book a cab for Lakshmi Panda from Bengaluru airport.", "entities": [{"type": "PERSON", "start": 22, "end": 35}, {"type": "LOCATION", "start": 41, "end": 50}], "tag": "seen_name"}
+{"text": "Thanks Mahima Wagh, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 18}], "tag": "unseen_name"}
+{"text": "Collect the vehicle HR 29 CK 2999 from Rashmi Aggarwal at the service centre.", "entities": [{"type": "VEHICLE_REG", "start": 20, "end": 33}, {"type": "PERSON", "start": 39, "end": 54}], "tag": "seen_name"}
+{"text": "Supplier GST number 19EDNCD1094D2ZA is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "We noticed suspicious activity from 209.148.54.195; the account belongs to Lavanya Lopez.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 50}, {"type": "PERSON", "start": 75, "end": 88}], "tag": "unseen_name"}
+{"text": "Sarah Brown (sarah.brown51@acme.in) asked us to change the registered mobile to +91 97526 05818.", "entities": [{"type": "PERSON", "start": 0, "end": 11}, {"type": "EMAIL", "start": 13, "end": 34}, {"type": "PHONE", "start": 80, "end": 95}], "tag": "unseen_name"}
+{"text": "Carlos Sawant (carlossawant@yahoo.co.in) asked us to change the registered mobile to +91-7126686922.", "entities": [{"type": "PERSON", "start": 0, "end": 13}, {"type": "EMAIL", "start": 15, "end": 39}, {"type": "PHONE", "start": 85, "end": 99}], "tag": "unseen_name"}
+{"text": "SKU 8152855529 is out of stock in all warehouses.", "entities": [], "tag": "hard_negative"}
+{"text": "Pickup address: Flat 12, MG Road, Jaipur - 198298.", "entities": [{"type": "LOCATION", "start": 34, "end": 40}, {"type": "PIN_CODE", "start": 43, "end": 49}], "tag": "positive"}
+{"text": "We noticed suspicious activity from 111.34.54.147; the account belongs to Arjun Jain.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 49}, {"type": "PERSON", "start": 74, "end": 84}], "tag": "seen_name"}
+{"text": "The applicant's PAN is KPAFB1953M and date of birth 20 October 1995.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 67}], "tag": "positive"}
+{"text": "The applicant's PAN is NARCU4402J and date of birth 24 Jan 1990.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 63}], "tag": "positive"}
+{"text": "The applicant's PAN is IIZPJ3650B and date of birth 19/07/1982.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 62}], "tag": "positive"}
+{"text": "Beneficiary: Advait Wagh, A/C 88642300487645, branch code ICIC0912808.", "entities": [{"type": "PERSON", "start": 13, "end": 24}, {"type": "BANK_ACCOUNT", "start": 30, "end": 44}, {"type": "IFSC", "start": 58, "end": 69}], "tag": "unseen_name"}
+{"text": "Kindly verify the identity of Kiran Das, Aadhaar no. 9760 5538 4883, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 39}, {"type": "AADHAAR", "start": 53, "end": 67}], "tag": "seen_name"}
+{"text": "Collect the vehicle GJ 21 ZX 9859 from Yuvraj Rege at the service centre.", "entities": [{"type": "VEHICLE_REG", "start": 20, "end": 33}, {"type": "PERSON", "start": 39, "end": 50}], "tag": "unseen_name"}
+{"text": "The applicant's PAN is MPFFQ3104L and date of birth 01/09/1970.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 62}], "tag": "positive"}
+{"text": "Kindly verify the identity of Megha Hegde, Aadhaar no. 3933 1908 4523, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 41}, {"type": "AADHAAR", "start": 55, "end": 69}], "tag": "seen_name"}
+{"text": "Your complaint reference is 9472 7785 9322.", "entities": [], "tag": "hard_negative"}
+{"text": "OTP 904952 is valid for ten minutes.", "entities": [], "tag": "hard_negative"}
+{"text": "Beneficiary: Daniel Kale, A/C 370730809086, branch code ICIC0773264.", "entities": [{"type": "PERSON", "start": 13, "end": 24}, {"type": "BANK_ACCOUNT", "start": 30, "end": 42}, {"type": "IFSC", "start": 56, "end": 67}], "tag": "unseen_name"}
+{"text": "Nakul Fischer (nakulfischer@outlook.com) asked us to change the registered mobile to 76511 62695.", "entities": [{"type": "PERSON", "start": 0, "end": 13}, {"type": "EMAIL", "start": 15, "end": 39}, {"type": "PHONE", "start": 85, "end": 96}], "tag": "unseen_name"}
+{"text": "Beneficiary: Ankit Mahato, A/C 810352478753, branch code HDFC0050297.", "entities": [{"type": "PERSON", "start": 13, "end": 25}, {"type": "BANK_ACCOUNT", "start": 31, "end": 43}, {"type": "IFSC", "start": 57, "end": 68}], "tag": "seen_name"}
+{"text": "AWB 341814703346 reached the sorting facility.", "entities": [], "tag": "hard_negative"}
+{"text": "Supplier GST number 35EFAPQ0032L2ZK is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "Vijay Jha (vijayjha63@company.co.in) asked us to change the registered mobile to 8697880932.", "entities": [{"type": "PERSON", "start": 0, "end": 9}, {"type": "EMAIL", "start": 11, "end": 35}, {"type": "PHONE", "start": 81, "end": 91}], "tag": "seen_name"}
+{"text": "AWB 633171647553 reached the sorting facility.", "entities": [], "tag": "hard_negative"}
+{"text": "Please book a cab for Rakesh Rizvi from Hyderabad airport.", "entities": [{"type": "PERSON", "start": 22, "end": 34}, {"type": "LOCATION", "start": 40, "end": 49}], "tag": "seen_name"}
+{"text": "Send Rs 500 to siddharth274@paytm for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 33}], "tag": "positive"}
+{"text": "Supplier GST number 24ZHRFL0477D4Z5 is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "Claim number 700279932848 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "Rashmi Aggarwal (rashmi.aggarwal24@company.co.in) asked us to change the registered mobile to 8258025797.", "entities": [{"type": "PERSON", "start": 0, "end": 15}, {"type": "EMAIL", "start": 17, "end": 48}, {"type": "PHONE", "start": 94, "end": 104}], "tag": "seen_name"}
+{"text": "Serial number 3695520603 is covered under warranty.", "entities": [], "tag": "hard_negative"}
+{"text": "Please book a cab for Lakshmi Panda from Indore airport.", "entities": [{"type": "PERSON", "start": 22, "end": 35}, {"type": "LOCATION", "start": 41, "end": 47}], "tag": "seen_name"}
+{"text": "Please book a cab for Mahesh Nayak from Indore airport.", "entities": [{"type": "PERSON", "start": 22, "end": 34}, {"type": "LOCATION", "start": 40, "end": 46}], "tag": "seen_name"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "Can you whatsapp Omkar Bhosale on 67276 15141? She is travelling to Kolkata.", "entities": [{"type": "PERSON", "start": 17, "end": 30}, {"type": "PHONE", "start": 34, "end": 45}, {"type": "LOCATION", "start": 68, "end": 75}], "tag": "unseen_name"}
+{"text": "SKU 4261888470 is out of stock in all warehouses.", "entities": [], "tag": "hard_negative"}
+{"text": "I paid using my debit card 6071 8841 3301 7564 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "Please book a cab for Omkar Kini from Hyderabad airport.", "entities": [{"type": "PERSON", "start": 22, "end": 32}, {"type": "LOCATION", "start": 38, "end": 47}], "tag": "unseen_name"}
+{"text": "Serial number 9996287560 is covered under warranty.", "entities": [], "tag": "hard_negative"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "Thanks Shraddha Nagpal, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 22}], "tag": "unseen_name"}
+{"text": "Pickup address: Flat 12, MG Road, Chennai - 193662.", "entities": [{"type": "LOCATION", "start": 34, "end": 41}, {"type": "PIN_CODE", "start": 44, "end": 50}], "tag": "positive"}
+{"text": "The applicant's PAN is GAUCO5969E and date of birth 28 Jan 1997.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 63}], "tag": "positive"}
+{"text": "Kindly verify the identity of Sanjana Ali, Aadhaar no. 2904 8801 5642, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 41}, {"type": "AADHAAR", "start": 55, "end": 69}], "tag": "seen_name"}
+{"text": "Send Rs 500 to vidya802@ybl for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 27}], "tag": "positive"}
+{"text": "Send Rs 500 to ira874@upi for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 25}], "tag": "positive"}
+{"text": "Her passport R2581299 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Lavanya Kini (lavanya.kini28@acme.in) asked us to change the registered mobile to +91-7521362958.", "entities": [{"type": "PERSON", "start": 0, "end": 12}, {"type": "EMAIL", "start": 14, "end": 36}, {"type": "PHONE", "start": 82, "end": 96}], "tag": "unseen_name"}
+{"text": "Please book a cab for Megha Hegde from Nagpur airport.", "entities": [{"type": "PERSON", "start": 22, "end": 33}, {"type": "LOCATION", "start": 39, "end": 45}], "tag": "seen_name"}
+{"text": "Beneficiary: Yuvraj Chavan, A/C 78120617695, branch code KKBK0519043.", "entities": [{"type": "PERSON", "start": 13, "end": 26}, {"type": "BANK_ACCOUNT", "start": 32, "end": 43}, {"type": "IFSC", "start": 57, "end": 68}], "tag": "unseen_name"}
+{"text": "Please book a cab for Vikram Banerjee from Ahmedabad airport.", "entities": [{"type": "PERSON", "start": 22, "end": 37}, {"type": "LOCATION", "start": 43, "end": 52}], "tag": "seen_name"}
+{"text": "Pickup address: Flat 12, MG Road, Lucknow - 817651.", "entities": [{"type": "LOCATION", "start": 34, "end": 41}, {"type": "PIN_CODE", "start": 44, "end": 50}], "tag": "positive"}
+{"text": "The applicant's PAN is AZVHB6260B and date of birth 21/02/1999.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 62}], "tag": "positive"}
+{"text": "Her passport V4317914 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Can you whatsapp Yamini Shinde on +91-8055761698? She is travelling to Bhopal.", "entities": [{"type": "PERSON", "start": 17, "end": 30}, {"type": "PHONE", "start": 34, "end": 48}, {"type": "LOCATION", "start": 71, "end": 77}], "tag": "seen_name"}
+{"text": "Serial number 7360097979 is covered under warranty.", "entities": [], "tag": "hard_negative"}
+{"text": "Kindly verify the identity of Yuki Bhosale, Aadhaar no. 7678 1724 6647, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 42}, {"type": "AADHAAR", "start": 56, "end": 70}], "tag": "unseen_name"}
+{"text": "Thanks Shankar Pillai, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 21}], "tag": "seen_name"}
+{"text": "The applicant's PAN is ABEFZ8567P and date of birth 12 October 1981.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 67}], "tag": "positive"}
+{"text": "Send Rs 500 to ira646@okaxis for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 28}], "tag": "positive"}
+{"text": "Claim number 835755264892 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "Collect the vehicle DL 04 M 4086 from Shraddha Fischer at the service centre.", "entities": [{"type": "VEHICLE_REG", "start": 20, "end": 32}, {"type": "PERSON", "start": 38, "end": 54}], "tag": "unseen_name"}
+{"text": "SKU 1358407907 is out of stock in all warehouses.", "entities": [], "tag": "hard_negative"}
+{"text": "Serial number 6171661830 is covered under warranty.", "entities": [], "tag": "hard_negative"}
+{"text": "We noticed suspicious activity from 114.205.39.141; the account belongs to Carlos Bhosale.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 50}, {"type": "PERSON", "start": 75, "end": 89}], "tag": "unseen_name"}
+{"text": "We noticed suspicious activity from 56.103.132.27; the account belongs to Karthik Deshpande.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 49}, {"type": "PERSON", "start": 74, "end": 91}], "tag": "seen_name"}
+{"text": "Supplier GST number 04YFEFW5619I1Z4 is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "AWB 516008423591 reached the sorting facility.", "entities": [], "tag": "hard_negative"}
+{"text": "The applicant's PAN is PVVHK5692K and date of birth 20 October 1981.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 67}], "tag": "positive"}
+{"text": "The applicant's PAN is OEZPM8920G and date of birth 20/10/1986.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 62}], "tag": "positive"}
+{"text": "Collect the vehicle HR 13 AB 2731 from Nidhi Goyal at the service centre.", "entities": [{"type": "VEHICLE_REG", "start": 20, "end": 33}, {"type": "PERSON", "start": 39, "end": 50}], "tag": "seen_name"}
+{"text": "Claim number 155685721936 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "Please book a cab for Charvi Bose from Gurugram airport.", "entities": [{"type": "PERSON", "start": 22, "end": 33}, {"type": "LOCATION", "start": 39, "end": 47}], "tag": "unseen_name"}
+{"text": "Revenue grew by 773376 rupees compared to last year.", "entities": [], "tag": "hard_negative"}
+{"text": "Her passport N3476134 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Your complaint reference is 8473 3086 9432.", "entities": [], "tag": "hard_negative"}
+{"text": "The applicant's PAN is FIYHQ7460C and date of birth 16 March 1981.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 65}], "tag": "positive"}
+{"text": "Serial number 9863031114 is covered under warranty.", "entities": [], "tag": "hard_negative"}
+{"text": "Serial number 3011163507 is covered under warranty.", "entities": [], "tag": "hard_negative"}
+{"text": "The applicant's PAN is DKSCP8427O and date of birth 7 October 1990.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 66}], "tag": "positive"}
+{"text": "Thanks Esha Luthra, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 18}], "tag": "unseen_name"}
+{"text": "The applicant's PAN is UBOPJ6306K and date of birth 28/06/1986.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 62}], "tag": "positive"}
+{"text": "Serial number 2127340992 is covered under warranty.", "entities": [], "tag": "hard_negative"}
+{"text": "Claim number 942363422645 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "Thanks Carlos Sawant, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 20}], "tag": "unseen_name"}
+{"text": "Manish Dhillon (manish_dhillon5@company.co.in) asked us to change the registered mobile to 6154316103.", "entities": [{"type": "PERSON", "start": 0, "end": 14}, {"type": "EMAIL", "start": 16, "end": 45}, {"type": "PHONE", "start": 91, "end": 101}], "tag": "seen_name"}
+{"text": "Her passport W3492170 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "SKU 7933308681 is out of stock in all warehouses.", "entities": [], "tag": "hard_negative"}
+{"text": "Kindly verify the identity of Pranav Rao, Aadhaar no. 3320 5987 1980, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 40}, {"type": "AADHAAR", "start": 54, "end": 68}], "tag": "seen_name"}
+{"text": "The applicant's PAN is WEXCE9387B and date of birth 26 Aug 1967.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 63}], "tag": "positive"}
+{"text": "Can you whatsapp Sanjana Ali on +91-7231245287? She is travelling to Pune.", "entities": [{"type": "PERSON", "start": 17, "end": 28}, {"type": "PHONE", "start": 32, "end": 46}, {"type": "LOCATION", "start": 69, "end": 73}], "tag": "seen_name"}
+{"text": "Her passport N9085347 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Thanks Omkar Bhosale, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 20}], "tag": "unseen_name"}
+{"text": "Michael Luthra (michael_luthra40@yahoo.co.in) asked us to change the registered mobile to 75688 55765.", "entities": [{"type": "PERSON", "start": 0, "end": 14}, {"type": "EMAIL", "start": 16, "end": 44}, {"type": "PHONE", "start": 90, "end": 101}], "tag": "unseen_name"}
+{"text": "Please book a cab for Yamini Shinde from Lucknow airport.", "entities": [{"type": "PERSON", "start": 22, "end": 35}, {"type": "LOCATION", "start": 41, "end": 48}], "tag": "seen_name"}
+{"text": "SKU 1315493362 is out of stock in all warehouses.", "entities": [], "tag": "hard_negative"}
+{"text": "Her passport U3984427 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "We noticed suspicious activity from 147.168.196.149; the account belongs to Sarah Johnson.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 51}, {"type": "PERSON", "start": 76, "end": 89}], "tag": "unseen_name"}
+{"text": "Revenue grew by 944040 rupees compared to last year.", "entities": [], "tag": "hard_negative"}
+{"text": "Collect the vehicle RJ 18 AB 5643 from Yuvraj Rege at the service centre.", "entities": [{"type": "VEHICLE_REG", "start": 20, "end": 33}, {"type": "PERSON", "start": 39, "end": 50}], "tag": "unseen_name"}
+{"text": "Supplier GST number 25XZEHI3560C8ZG is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "Supplier GST number 13QHFPO7793B2ZU is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "Pickup address: Flat 12, MG Road, Hyderabad - 306293.", "entities": [{"type": "LOCATION", "start": 34, "end": 43}, {"type": "PIN_CODE", "start": 46, "end": 52}], "tag": "positive"}
+{"text": "SKU 6074761208 is out of stock in all warehouses.", "entities": [], "tag": "hard_negative"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "Kindly verify the identity of Ashok Chatterjee, Aadhaar no. 7817 6252 8075, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 46}, {"type": "AADHAAR", "start": 60, "end": 74}], "tag": "seen_name"}
+{"text": "Kindly verify the identity of Arjun Jain, Aadhaar no. 7579 9065 9399, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 40}, {"type": "AADHAAR", "start": 54, "end": 68}], "tag": "seen_name"}
+{"text": "Beneficiary: Sarah Kale, A/C 777921415344, branch code UTIB0967252.", "entities": [{"type": "PERSON", "start": 13, "end": 23}, {"type": "BANK_ACCOUNT", "start": 29, "end": 41}, {"type": "IFSC", "start": 55, "end": 66}], "tag": "unseen_name"}
+{"text": "I paid using my debit card 5247 4284 3528 1444 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "Can you whatsapp Yuvraj Chavan on +91-8850663516? She is travelling to Kolkata.", "entities": [{"type": "PERSON", "start": 17, "end": 30}, {"type": "PHONE", "start": 34, "end": 48}, {"type": "LOCATION", "start": 71, "end": 78}], "tag": "unseen_name"}
+{"text": "Thanks Harleen Modi, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 19}], "tag": "seen_name"}
+{"text": "Tushar Kohli (tusharkohli46@gmail.com) asked us to change the registered mobile to 99256 66363.", "entities": [{"type": "PERSON", "start": 0, "end": 12}, {"type": "EMAIL", "start": 14, "end": 37}, {"type": "PHONE", "start": 83, "end": 94}], "tag": "seen_name"}
+{"text": "OTP 923236 is valid for ten minutes.", "entities": [], "tag": "hard_negative"}
+{"text": "Kindly verify the identity of Sarita Hussain, Aadhaar no. 9283 7929 8410, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 44}, {"type": "AADHAAR", "start": 58, "end": 72}], "tag": "seen_name"}
+{"text": "I paid using my debit card 4984 0993 7974 9629 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "Claim number 131921918167 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "Claim number 707500093595 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "Michael Luthra (michael.luthra@yahoo.co.in) asked us to change the registered mobile to 6782054049.", "entities": [{"type": "PERSON", "start": 0, "end": 14}, {"type": "EMAIL", "start": 16, "end": 42}, {"type": "PHONE", "start": 88, "end": 98}], "tag": "unseen_name"}
+{"text": "Thanks Mahesh Nayak, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 19}], "tag": "seen_name"}
+{"text": "AWB 245215563808 reached the sorting facility.", "entities": [], "tag": "hard_negative"}
+{"text": "The applicant's PAN is RRMHL7408H and date of birth 06/09/1984.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 62}], "tag": "positive"}
+{"text": "Can you whatsapp Shankar Pillai on +91-7971100989? She is travelling to Kolkata.", "entities": [{"type": "PERSON", "start": 17, "end": 31}, {"type": "PHONE", "start": 35, "end": 49}, {"type": "LOCATION", "start": 72, "end": 79}], "tag": "seen_name"}
+{"text": "Can you whatsapp Mrunal Wagh on 6872438546? She is travelling to Chennai.", "entities": [{"type": "PERSON", "start": 17, "end": 28}, {"type": "PHONE", "start": 32, "end": 42}, {"type": "LOCATION", "start": 65, "end": 72}], "tag": "unseen_name"}
+{"text": "Send Rs 500 to esha903@upi for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 26}], "tag": "positive"}
+{"text": "Pickup address: Flat 12, MG Road, Pune - 356652.", "entities": [{"type": "LOCATION", "start": 34, "end": 38}, {"type": "PIN_CODE", "start": 41, "end": 47}], "tag": "positive"}
+{"text": "Supplier GST number 27CDWHD0903Q3ZG is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "We noticed suspicious activity from 117.181.140.134; the account belongs to Arjun Jain.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 51}, {"type": "PERSON", "start": 76, "end": 86}], "tag": "seen_name"}
+{"text": "Can you whatsapp Kiran Das on +91 65846 45060? She is travelling to Ahmedabad.", "entities": [{"type": "PERSON", "start": 17, "end": 26}, {"type": "PHONE", "start": 30, "end": 45}, {"type": "LOCATION", "start": 68, "end": 77}], "tag": "seen_name"}
+{"text": "Serial number 5544058561 is covered under warranty.", "entities": [], "tag": "hard_negative"}
+{"text": "Supplier GST number 28RVBHK7498Z2ZZ is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "Her passport U7101019 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Collect the vehicle HR 30 AB 7596 from Rajat Ahuja at the service centre.", "entities": [{"type": "VEHICLE_REG", "start": 20, "end": 33}, {"type": "PERSON", "start": 39, "end": 50}], "tag": "seen_name"}
+{"text": "AWB 565716334103 reached the sorting facility.", "entities": [], "tag": "hard_negative"}
+{"text": "Collect the vehicle HR 03 M 1450 from Navjot Varghese at the service centre.", "entities": [{"type": "VEHICLE_REG", "start": 20, "end": 32}, {"type": "PERSON", "start": 38, "end": 53}], "tag": "seen_name"}
+{"text": "The applicant's PAN is GOVPD0629X and date of birth 17 March 1987.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 65}], "tag": "positive"}
+{"text": "Can you whatsapp Keshav Walker on 87267 14751? She is travelling to Ahmedabad.", "entities": [{"type": "PERSON", "start": 17, "end": 30}, {"type": "PHONE", "start": 34, "end": 45}, {"type": "LOCATION", "start": 68, "end": 77}], "tag": "unseen_name"}
+{"text": "Pickup address: Flat 12, MG Road, Mumbai - 125866.", "entities": [{"type": "LOCATION", "start": 34, "end": 40}, {"type": "PIN_CODE", "start": 43, "end": 49}], "tag": "positive"}
+{"text": "I paid using my debit card 5219 9559 3929 8171 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "Can you whatsapp Megha Hegde on 9669716973? She is travelling to Kolkata.", "entities": [{"type": "PERSON", "start": 17, "end": 28}, {"type": "PHONE", "start": 32, "end": 42}, {"type": "LOCATION", "start": 65, "end": 72}], "tag": "seen_name"}
+{"text": "Shraddha Chavan (shraddha_chavan@company.co.in) asked us to change the registered mobile to +91 78327 17451.", "entities": [{"type": "PERSON", "start": 0, "end": 15}, {"type": "EMAIL", "start": 17, "end": 46}, {"type": "PHONE", "start": 92, "end": 107}], "tag": "unseen_name"}
+{"text": "Supplier GST number 17QQMPT3519A8Z7 is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "Pickup address: Flat 12, MG Road, Pune - 561798.", "entities": [{"type": "LOCATION", "start": 34, "end": 38}, {"type": "PIN_CODE", "start": 41, "end": 47}], "tag": "positive"}
+{"text": "AWB 931439254559 reached the sorting facility.", "entities": [], "tag": "hard_negative"}
+{"text": "SKU 7014295354 is out of stock in all warehouses.", "entities": [], "tag": "hard_negative"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "Please book a cab for Lavanya Kini from Kochi airport.", "entities": [{"type": "PERSON", "start": 22, "end": 34}, {"type": "LOCATION", "start": 40, "end": 45}], "tag": "unseen_name"}
+{"text": "Kindly verify the identity of Nakul Fischer, Aadhaar no. 6836 7088 7855, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 43}, {"type": "AADHAAR", "start": 57, "end": 71}], "tag": "unseen_name"}
+{"text": "Thanks Tejas Kale, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 17}], "tag": "unseen_name"}
+{"text": "Your complaint reference is 8524 9138 1146.", "entities": [], "tag": "hard_negative"}
+{"text": "The applicant's PAN is SNWFB2959N and date of birth 22 October 1980.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 67}], "tag": "positive"}
+{"text": "SKU 9951945458 is out of stock in all warehouses.", "entities": [], "tag": "hard_negative"}
+{"text": "Your complaint reference is 5046 5239 0359.", "entities": [], "tag": "hard_negative"}
+{"text": "Please book a cab for Venkat Thakur from Lucknow airport.", "entities": [{"type": "PERSON", "start": 22, "end": 35}, {"type": "LOCATION", "start": 41, "end": 48}], "tag": "seen_name"}
+{"text": "OTP 594555 is valid for ten minutes.", "entities": [], "tag": "hard_negative"}
+{"text": "Her passport K2265844 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "I paid using my debit card 5260 9658 4500 7481 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "Collect the vehicle RJ 19 M 4552 from Yuvraj Rege at the service centre.", "entities": [{"type": "VEHICLE_REG", "start": 20, "end": 32}, {"type": "PERSON", "start": 38, "end": 49}], "tag": "unseen_name"}
+{"text": "Her passport S9486488 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "I paid using my debit card 4431041726142255 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 43}], "tag": "positive"}
+{"text": "Please book a cab for Sunita Jha from Indore airport.", "entities": [{"type": "PERSON", "start": 22, "end": 32}, {"type": "LOCATION", "start": 38, "end": 44}], "tag": "seen_name"}
+{"text": "I paid using my debit card 5141 7264 3662 8290 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "Please book a cab for Nakul Walker from Noida airport.", "entities": [{"type": "PERSON", "start": 22, "end": 34}, {"type": "LOCATION", "start": 40, "end": 45}], "tag": "unseen_name"}
+{"text": "Pickup address: Flat 12, MG Road, Jaipur - 724497.", "entities": [{"type": "LOCATION", "start": 34, "end": 40}, {"type": "PIN_CODE", "start": 43, "end": 49}], "tag": "positive"}
+{"text": "Beneficiary: Manoj Menon, A/C 983717634526, branch code HDFC0645011.", "entities": [{"type": "PERSON", "start": 13, "end": 24}, {"type": "BANK_ACCOUNT", "start": 30, "end": 42}, {"type": "IFSC", "start": 56, "end": 67}], "tag": "seen_name"}
+{"text": "Kindly verify the identity of Nidhi Goyal, Aadhaar no. 7898 3194 8939, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 41}, {"type": "AADHAAR", "start": 55, "end": 69}], "tag": "seen_name"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "Claim number 519597302535 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "Kindly verify the identity of Rakesh Rizvi, Aadhaar no. 4731 9796 7804, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 42}, {"type": "AADHAAR", "start": 56, "end": 70}], "tag": "seen_name"}
+{"text": "Your complaint reference is 3341 7031 3624.", "entities": [], "tag": "hard_negative"}
+{"text": "The applicant's PAN is WLYHN9664M and date of birth 7 March 1993.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 64}], "tag": "positive"}
+{"text": "I paid using my debit card 6080133252695639 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 43}], "tag": "positive"}
+{"text": "Revenue grew by 976036 rupees compared to last year.", "entities": [], "tag": "hard_negative"}
+{"text": "Serial number 7630524548 is covered under warranty.", "entities": [], "tag": "hard_negative"}
+{"text": "Her passport Z9220701 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Collect the vehicle HR 02 ZX 7702 from Yuki Rege at the service centre.", "entities": [{"type": "VEHICLE_REG", "start": 20, "end": 33}, {"type": "PERSON", "start": 39, "end": 48}], "tag": "unseen_name"}
+{"text": "Beneficiary: Vijay Jha, A/C 473548643906, branch code HDFC0884791.", "entities": [{"type": "PERSON", "start": 13, "end": 22}, {"type": "BANK_ACCOUNT", "start": 28, "end": 40}, {"type": "IFSC", "start": 54, "end": 65}], "tag": "seen_name"}
+{"text": "Pickup address: Flat 12, MG Road, Noida - 757825.", "entities": [{"type": "LOCATION", "start": 34, "end": 39}, {"type": "PIN_CODE", "start": 42, "end": 48}], "tag": "positive"}
+{"text": "Her passport N2775888 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "Kindly verify the identity of Vikram Banerjee, Aadhaar no. 9778 5457 9105, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 45}, {"type": "AADHAAR", "start": 59, "end": 73}], "tag": "seen_name"}
+{"text": "We noticed suspicious activity from 13.22.75.125; the account belongs to Parth Brown.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 48}, {"type": "PERSON", "start": 73, "end": 84}], "tag": "unseen_name"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "Supplier GST number 01DEKCO3381T3ZI is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "OTP 973425 is valid for ten minutes.", "entities": [], "tag": "hard_negative"}
+{"text": "Send Rs 500 to komal94@ibl for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 26}], "tag": "positive"}
+{"text": "SKU 7750425051 is out of stock in all warehouses.", "entities": [], "tag": "hard_negative"}
+{"text": "The applicant's PAN is PJYFK5252B and date of birth 03/04/1988.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 62}], "tag": "positive"}
+{"text": "Send Rs 500 to charvi213@ibl for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 28}], "tag": "positive"}
+{"text": "Supplier GST number 33LLYFQ3613A7ZA is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "Keshav Lopez (keshav_lopez@acme.in) asked us to change the registered mobile to +91 76955 04397.", "entities": [{"type": "PERSON", "start": 0, "end": 12}, {"type": "EMAIL", "start": 14, "end": 34}, {"type": "PHONE", "start": 80, "end": 95}], "tag": "unseen_name"}
+{"text": "Her passport M3019172 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Collect the vehicle GJ 02 CK 8222 from Carlos Bhosale at the service centre.", "entities": [{"type": "VEHICLE_REG", "start": 20, "end": 33}, {"type": "PERSON", "start": 39, "end": 53}], "tag": "unseen_name"}
+{"text": "Revenue grew by 740178 rupees compared to last year.", "entities": [], "tag": "hard_negative"}
+{"text": "Revenue grew by 301226 rupees compared to last year.", "entities": [], "tag": "hard_negative"}
+{"text": "We noticed suspicious activity from 138.210.219.117; the account belongs to Sanjana Ali.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 51}, {"type": "PERSON", "start": 76, "end": 87}], "tag": "seen_name"}
+{"text": "Revenue grew by 263388 rupees compared to last year.", "entities": [], "tag": "hard_negative"}
+{"text": "OTP 509785 is valid for ten minutes.", "entities": [], "tag": "hard_negative"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "Revenue grew by 391353 rupees compared to last year.", "entities": [], "tag": "hard_negative"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "Supplier GST number 34WYDFW6550C2ZD is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "Pickup address: Flat 12, MG Road, Nagpur - 682597.", "entities": [{"type": "LOCATION", "start": 34, "end": 40}, {"type": "PIN_CODE", "start": 43, "end": 49}], "tag": "positive"}
+{"text": "I paid using my debit card 4753 6455 6815 1883 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "Beneficiary: Daniel Kini, A/C 63787760405424, branch code UTIB0854242.", "entities": [{"type": "PERSON", "start": 13, "end": 24}, {"type": "BANK_ACCOUNT", "start": 30, "end": 44}, {"type": "IFSC", "start": 58, "end": 69}], "tag": "unseen_name"}
+{"text": "Ashok Chatterjee (ashokchatterjee@company.co.in) asked us to change the registered mobile to 9987973091.", "entities": [{"type": "PERSON", "start": 0, "end": 16}, {"type": "EMAIL", "start": 18, "end": 47}, {"type": "PHONE", "start": 93, "end": 103}], "tag": "seen_name"}
+{"text": "Her passport M4541488 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Beneficiary: Shraddha Chavan, A/C 705792992398, branch code HDFC0337027.", "entities": [{"type": "PERSON", "start": 13, "end": 28}, {"type": "BANK_ACCOUNT", "start": 34, "end": 46}, {"type": "IFSC", "start": 60, "end": 71}], "tag": "unseen_name"}
+{"text": "Thanks Pihu Kini, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 16}], "tag": "unseen_name"}
+{"text": "Thanks Daniel Kini, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 18}], "tag": "unseen_name"}
+{"text": "Send Rs 500 to harleen168@paytm for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 31}], "tag": "positive"}
+{"text": "Your complaint reference is 6193 2582 7581.", "entities": [], "tag": "hard_negative"}
+{"text": "Revenue grew by 659707 rupees compared to last year.", "entities": [], "tag": "hard_negative"}
+{"text": "Please book a cab for Nakul Walker from Ahmedabad airport.", "entities": [{"type": "PERSON", "start": 22, "end": 34}, {"type": "LOCATION", "start": 40, "end": 49}], "tag": "unseen_name"}
+{"text": "Supplier GST number 05JKFHI1030A7Z9 is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "Send Rs 500 to prateek412@ybl for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 29}], "tag": "positive"}
+{"text": "We noticed suspicious activity from 206.31.173.176; the account belongs to Esha Luthra.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 50}, {"type": "PERSON", "start": 75, "end": 86}], "tag": "unseen_name"}
+{"text": "Claim number 154137741039 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "Kindly verify the identity of Advait Wagh, Aadhaar no. 5244 8452 6302, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 41}, {"type": "AADHAAR", "start": 55, "end": 69}], "tag": "unseen_name"}
+{"text": "SKU 6445950124 is out of stock in all warehouses.", "entities": [], "tag": "hard_negative"}
+{"text": "Kindly verify the identity of Emma Chavan, Aadhaar no. 2514 7865 8938, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 41}, {"type": "AADHAAR", "start": 55, "end": 69}], "tag": "unseen_name"}
+{"text": "Collect the vehicle KA 18 CK 9271 from Venkat Thakur at the service centre.", "entities": [{"type": "VEHICLE_REG", "start": 20, "end": 33}, {"type": "PERSON", "start": 39, "end": 52}], "tag": "seen_name"}
+{"text": "Send Rs 500 to akhil428@ibl for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 27}], "tag": "positive"}
+{"text": "Beneficiary: Tejas Kale, A/C 17967720412, branch code UTIB0347892.", "entities": [{"type": "PERSON", "start": 13, "end": 23}, {"type": "BANK_ACCOUNT", "start": 29, "end": 40}, {"type": "IFSC", "start": 54, "end": 65}], "tag": "unseen_name"}
+{"text": "Your complaint reference is 2018 5397 6998.", "entities": [], "tag": "hard_negative"}
+{"text": "Thanks Prateek Sinha, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 20}], "tag": "seen_name"}
+{"text": "I paid using my debit card 4547733374366308 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 43}], "tag": "positive"}
+{"text": "Her passport K1512983 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Beneficiary: Manoj Menon, A/C 116494157718, branch code KKBK0357951.", "entities": [{"type": "PERSON", "start": 13, "end": 24}, {"type": "BANK_ACCOUNT", "start": 30, "end": 42}, {"type": "IFSC", "start": 56, "end": 67}], "tag": "seen_name"}
+{"text": "Please book a cab for Nidhi Goyal from Lucknow airport.", "entities": [{"type": "PERSON", "start": 22, "end": 33}, {"type": "LOCATION", "start": 39, "end": 46}], "tag": "seen_name"}
+{"text": "Send Rs 500 to emma407@okhdfcbank for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 33}], "tag": "positive"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "I paid using my debit card 4331 5604 0837 8193 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "We noticed suspicious activity from 164.182.158.135; the account belongs to Karthik Deshpande.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 51}, {"type": "PERSON", "start": 76, "end": 93}], "tag": "seen_name"}
+{"text": "Beneficiary: Shalini Choudhary, A/C 15205114829, branch code PUNB0418341.", "entities": [{"type": "PERSON", "start": 13, "end": 30}, {"type": "BANK_ACCOUNT", "start": 36, "end": 47}, {"type": "IFSC", "start": 61, "end": 72}], "tag": "seen_name"}
+{"text": "Supplier GST number 09DAIFB3035R9ZQ is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "I paid using my debit card 6015 1575 3921 0250 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "The applicant's PAN is KBMCA4375R and date of birth 23 Aug 1973.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 63}], "tag": "positive"}
+{"text": "Manoj Menon (manoj_menon9@outlook.com) asked us to change the registered mobile to 97447 96745.", "entities": [{"type": "PERSON", "start": 0, "end": 11}, {"type": "EMAIL", "start": 13, "end": 37}, {"type": "PHONE", "start": 83, "end": 94}], "tag": "seen_name"}
+{"text": "Your complaint reference is 9725 7550 9008.", "entities": [], "tag": "hard_negative"}
+{"text": "Claim number 115223556360 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "Supplier GST number 14XGDPL2589D3ZV is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "Her passport M8038265 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Collect the vehicle RJ 26 M 3931 from Shraddha Sawant at the service centre.", "entities": [{"type": "VEHICLE_REG", "start": 20, "end": 32}, {"type": "PERSON", "start": 38, "end": 53}], "tag": "unseen_name"}
+{"text": "Kindly verify the identity of Sarah Kale, Aadhaar no. 4275 5354 8344, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 40}, {"type": "AADHAAR", "start": 54, "end": 68}], "tag": "unseen_name"}
+{"text": "Thanks Shraddha Fischer, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 23}], "tag": "unseen_name"}
+{"text": "AWB 889824900308 reached the sorting facility.", "entities": [], "tag": "hard_negative"}
+{"text": "OTP 741442 is valid for ten minutes.", "entities": [], "tag": "hard_negative"}
+{"text": "I paid using my debit card 6083768917760349 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 43}], "tag": "positive"}
+{"text": "Her passport T3226468 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Beneficiary: Prakash Qureshi, A/C 27718621076, branch code HDFC0770775.", "entities": [{"type": "PERSON", "start": 13, "end": 28}, {"type": "BANK_ACCOUNT", "start": 34, "end": 45}, {"type": "IFSC", "start": 59, "end": 70}], "tag": "seen_name"}
+{"text": "Your complaint reference is 7869 1589 3756.", "entities": [], "tag": "hard_negative"}
+{"text": "I paid using my debit card 5239 8286 4089 4875 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "Her passport L1824220 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Please book a cab for Sanjana Ali from Bengaluru airport.", "entities": [{"type": "PERSON", "start": 22, "end": 33}, {"type": "LOCATION", "start": 39, "end": 48}], "tag": "seen_name"}
+{"text": "Collect the vehicle UP 12 AB 9371 from Ankit Mahato at the service centre.", "entities": [{"type": "VEHICLE_REG", "start": 20, "end": 33}, {"type": "PERSON", "start": 39, "end": 51}], "tag": "seen_name"}
+{"text": "Pickup address: Flat 12, MG Road, Ahmedabad - 379867.", "entities": [{"type": "LOCATION", "start": 34, "end": 43}, {"type": "PIN_CODE", "start": 46, "end": 52}], "tag": "positive"}
+{"text": "Her passport T6651788 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Yuki Rege (yuki.rege@gmail.com) asked us to change the registered mobile to 99169 79780.", "entities": [{"type": "PERSON", "start": 0, "end": 9}, {"type": "EMAIL", "start": 11, "end": 30}, {"type": "PHONE", "start": 76, "end": 87}], "tag": "unseen_name"}
+{"text": "OTP 905532 is valid for ten minutes.", "entities": [], "tag": "hard_negative"}
+{"text": "We noticed suspicious activity from 167.26.56.131; the account belongs to Ira Kale.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 49}, {"type": "PERSON", "start": 74, "end": 82}], "tag": "unseen_name"}
+{"text": "Claim number 367064989377 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "Thanks Shraddha Fischer, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 23}], "tag": "unseen_name"}
+{"text": "Send Rs 500 to sana697@okhdfcbank for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 33}], "tag": "positive"}
+{"text": "Collect the vehicle KA 26 CK 9341 from Lakshmi Panda at the service centre.", "entities": [{"type": "VEHICLE_REG", "start": 20, "end": 33}, {"type": "PERSON", "start": 39, "end": 52}], "tag": "seen_name"}
+{"text": "We noticed suspicious activity from 97.103.57.30; the account belongs to Rekha Kapoor.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 48}, {"type": "PERSON", "start": 73, "end": 85}], "tag": "seen_name"}
+{"text": "Can you whatsapp Omkar Nagpal on 94549 28452? She is travelling to Jaipur.", "entities": [{"type": "PERSON", "start": 17, "end": 29}, {"type": "PHONE", "start": 33, "end": 44}, {"type": "LOCATION", "start": 67, "end": 73}], "tag": "unseen_name"}
+{"text": "Her passport Z6292074 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "Shraddha Nagpal (shraddhanagpal29@company.co.in) asked us to change the registered mobile to +91-8222384164.", "entities": [{"type": "PERSON", "start": 0, "end": 15}, {"type": "EMAIL", "start": 17, "end": 47}, {"type": "PHONE", "start": 93, "end": 107}], "tag": "unseen_name"}
+{"text": "Kindly verify the identity of Prateek Sinha, Aadhaar no. 2052 0070 0918, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 43}, {"type": "AADHAAR", "start": 57, "end": 71}], "tag": "seen_name"}
+{"text": "Can you whatsapp Harpreet Sinha on 8293012670? She is travelling to Kochi.", "entities": [{"type": "PERSON", "start": 17, "end": 31}, {"type": "PHONE", "start": 35, "end": 45}, {"type": "LOCATION", "start": 68, "end": 73}], "tag": "seen_name"}
+{"text": "Your complaint reference is 4103 7785 9739.", "entities": [], "tag": "hard_negative"}
+{"text": "Collect the vehicle KA 04 M 2579 from Mahesh Nayak at the service centre.", "entities": [{"type": "VEHICLE_REG", "start": 20, "end": 32}, {"type": "PERSON", "start": 38, "end": 50}], "tag": "seen_name"}
+{"text": "Claim number 985521895229 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "Vignesh Verma (vigneshverma29@company.co.in) asked us to change the registered mobile to +91 97704 41047.", "entities": [{"type": "PERSON", "start": 0, "end": 13}, {"type": "EMAIL", "start": 15, "end": 43}, {"type": "PHONE", "start": 89, "end": 104}], "tag": "seen_name"}
+{"text": "Your complaint reference is 9050 0620 1391.", "entities": [], "tag": "hard_negative"}
+{"text": "Kiran Das (kiran_das10@outlook.com) asked us to change the registered mobile to 8420146133.", "entities": [{"type": "PERSON", "start": 0, "end": 9}, {"type": "EMAIL", "start": 11, "end": 34}, {"type": "PHONE", "start": 80, "end": 90}], "tag": "seen_name"}
+{"text": "I paid using my debit card 5221 9607 6386 5356 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "AWB 237970796649 reached the sorting facility.", "entities": [], "tag": "hard_negative"}
+{"text": "The applicant's PAN is OZVCM8909P and date of birth 15 October 1965.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 67}], "tag": "positive"}
+{"text": "We noticed suspicious activity from 40.195.44.58; the account belongs to Carlos Bhosale.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 48}, {"type": "PERSON", "start": 73, "end": 87}], "tag": "unseen_name"}
+{"text": "The applicant's PAN is MBOPA2727E and date of birth 7 October 1990.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 66}], "tag": "positive"}
+{"text": "I paid using my debit card 4824460261956801 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 43}], "tag": "positive"}
+{"text": "Supplier GST number 23FAEHI7121Z2ZF is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "Send Rs 500 to ira346@ibl for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 25}], "tag": "positive"}
+{"text": "AWB 418750308157 reached the sorting facility.", "entities": [], "tag": "hard_negative"}
+{"text": "The applicant's PAN is ZWJPD3167O and date of birth 13/02/1988.", "entities": [{"type": "PAN", "start": 23, "end": 33}, {"type": "DATE_OF_BIRTH", "start": 52, "end": 62}], "tag": "positive"}
+{"text": "Your complaint reference is 3819 0637 7117.", "entities": [], "tag": "hard_negative"}
+{"text": "Claim number 611285969086 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "We noticed suspicious activity from 209.112.101.200; the account belongs to Nisha Krishnan.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 51}, {"type": "PERSON", "start": 76, "end": 90}], "tag": "seen_name"}
+{"text": "Her passport V5351976 was submitted along with the visa form.", "entities": [{"type": "PASSPORT", "start": 13, "end": 21}], "tag": "positive"}
+{"text": "Pickup address: Flat 12, MG Road, Mumbai - 678493.", "entities": [{"type": "LOCATION", "start": 34, "end": 40}, {"type": "PIN_CODE", "start": 43, "end": 49}], "tag": "positive"}
+{"text": "Can you whatsapp Vikram Banerjee on +91 71450 37849? She is travelling to Pune.", "entities": [{"type": "PERSON", "start": 17, "end": 32}, {"type": "PHONE", "start": 36, "end": 51}, {"type": "LOCATION", "start": 74, "end": 78}], "tag": "seen_name"}
+{"text": "Keshav Lopez (keshavlopez5@acme.in) asked us to change the registered mobile to 6370412143.", "entities": [{"type": "PERSON", "start": 0, "end": 12}, {"type": "EMAIL", "start": 14, "end": 34}, {"type": "PHONE", "start": 80, "end": 90}], "tag": "unseen_name"}
+{"text": "I paid using my debit card 5183 6016 1055 0082 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "Claim number 549571222475 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "Your complaint reference is 2602 1331 1145.", "entities": [], "tag": "hard_negative"}
+{"text": "SKU 7123051792 is out of stock in all warehouses.", "entities": [], "tag": "hard_negative"}
+{"text": "Your complaint reference is 7017 8326 3368.", "entities": [], "tag": "hard_negative"}
+{"text": "Claim number 355438467605 is under review.", "entities": [], "tag": "hard_negative"}
+{"text": "Thanks Shankar Prasad, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 21}], "tag": "seen_name"}
+{"text": "Your complaint reference is 7734 8132 7853.", "entities": [], "tag": "hard_negative"}
+{"text": "Can you whatsapp Yuki Walker on 77608 21961? She is travelling to Pune.", "entities": [{"type": "PERSON", "start": 17, "end": 28}, {"type": "PHONE", "start": 32, "end": 43}, {"type": "LOCATION", "start": 66, "end": 70}], "tag": "unseen_name"}
+{"text": "Your complaint reference is 9512 2808 5690.", "entities": [], "tag": "hard_negative"}
+{"text": "SKU 8016990497 is out of stock in all warehouses.", "entities": [], "tag": "hard_negative"}
+{"text": "Pickup address: Flat 12, MG Road, Mumbai - 842102.", "entities": [{"type": "LOCATION", "start": 34, "end": 40}, {"type": "PIN_CODE", "start": 43, "end": 49}], "tag": "positive"}
+{"text": "Supplier GST number 16SNFCB9514U9ZG is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "Please book a cab for Tejas Kale from Kochi airport.", "entities": [{"type": "PERSON", "start": 22, "end": 32}, {"type": "LOCATION", "start": 38, "end": 43}], "tag": "unseen_name"}
+{"text": "Send Rs 500 to advait106@ibl for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 28}], "tag": "positive"}
+{"text": "SKU 9473796697 is out of stock in all warehouses.", "entities": [], "tag": "hard_negative"}
+{"text": "Your complaint reference is 6860 8022 2324.", "entities": [], "tag": "hard_negative"}
+{"text": "We noticed suspicious activity from 215.42.87.207; the account belongs to Tarun Mehta.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 49}, {"type": "PERSON", "start": 74, "end": 85}], "tag": "seen_name"}
+{"text": "Can you whatsapp Emma Chavan on +91 77330 57030? She is travelling to Indore.", "entities": [{"type": "PERSON", "start": 17, "end": 28}, {"type": "PHONE", "start": 32, "end": 47}, {"type": "LOCATION", "start": 70, "end": 76}], "tag": "unseen_name"}
+{"text": "Can you whatsapp Mahima Wagh on 65183 76125? She is travelling to Noida.", "entities": [{"type": "PERSON", "start": 17, "end": 28}, {"type": "PHONE", "start": 32, "end": 43}, {"type": "LOCATION", "start": 66, "end": 71}], "tag": "unseen_name"}
+{"text": "Serial number 4933189679 is covered under warranty.", "entities": [], "tag": "hard_negative"}
+{"text": "Thanks Hrithik Tanaka, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 21}], "tag": "unseen_name"}
+{"text": "Pickup address: Flat 12, MG Road, Bhopal - 561502.", "entities": [{"type": "LOCATION", "start": 34, "end": 40}, {"type": "PIN_CODE", "start": 43, "end": 49}], "tag": "positive"}
+{"text": "Kindly verify the identity of Shankar Prasad, Aadhaar no. 6431 7367 5125, before disbursal.", "entities": [{"type": "PERSON", "start": 30, "end": 44}, {"type": "AADHAAR", "start": 58, "end": 72}], "tag": "seen_name"}
+{"text": "Thanks Sarah Brown, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 18}], "tag": "unseen_name"}
+{"text": "Supplier GST number 23PEDCR3646L8ZF is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "I paid using my debit card 5221083949066888 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 43}], "tag": "positive"}
+{"text": "Supplier GST number 22OTHPR6539B4ZB is missing from the purchase order.", "entities": [{"type": "GSTIN", "start": 20, "end": 35}], "tag": "positive"}
+{"text": "Your complaint reference is 7477 1274 6221.", "entities": [], "tag": "hard_negative"}
+{"text": "Pickup address: Flat 12, MG Road, Mumbai - 483559.", "entities": [{"type": "LOCATION", "start": 34, "end": 40}, {"type": "PIN_CODE", "start": 43, "end": 49}], "tag": "positive"}
+{"text": "Write a polite reminder email about the pending report.", "entities": [], "tag": "hard_negative"}
+{"text": "Beneficiary: Sunita Jha, A/C 651747260012, branch code HDFC0266279.", "entities": [{"type": "PERSON", "start": 13, "end": 23}, {"type": "BANK_ACCOUNT", "start": 29, "end": 41}, {"type": "IFSC", "start": 55, "end": 66}], "tag": "seen_name"}
+{"text": "Send Rs 500 to navjot771@okaxis for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 31}], "tag": "positive"}
+{"text": "Your complaint reference is 2254 4121 1740.", "entities": [], "tag": "hard_negative"}
+{"text": "We noticed suspicious activity from 195.39.52.169; the account belongs to Pranav Rao.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 49}, {"type": "PERSON", "start": 74, "end": 84}], "tag": "seen_name"}
+{"text": "Please book a cab for Yuki Walker from Ahmedabad airport.", "entities": [{"type": "PERSON", "start": 22, "end": 33}, {"type": "LOCATION", "start": 39, "end": 48}], "tag": "unseen_name"}
+{"text": "Send Rs 500 to devansh55@ybl for the team lunch.", "entities": [{"type": "UPI_ID", "start": 15, "end": 28}], "tag": "positive"}
+{"text": "OTP 418857 is valid for ten minutes.", "entities": [], "tag": "hard_negative"}
+{"text": "Thanks Sarah Johnson, I have forwarded your details to the HR team.", "entities": [{"type": "PERSON", "start": 7, "end": 20}], "tag": "unseen_name"}
+{"text": "Please book a cab for Daniel Kale from Bhopal airport.", "entities": [{"type": "PERSON", "start": 22, "end": 33}, {"type": "LOCATION", "start": 39, "end": 45}], "tag": "unseen_name"}
+{"text": "Your complaint reference is 8172 1496 5407.", "entities": [], "tag": "hard_negative"}
+{"text": "OTP 589437 is valid for ten minutes.", "entities": [], "tag": "hard_negative"}
+{"text": "Revenue grew by 157062 rupees compared to last year.", "entities": [], "tag": "hard_negative"}
+{"text": "We noticed suspicious activity from 50.164.167.74; the account belongs to Jatin Mukherjee.", "entities": [{"type": "IP_ADDRESS", "start": 36, "end": 49}, {"type": "PERSON", "start": 74, "end": 89}], "tag": "seen_name"}
+{"text": "I paid using my debit card 6041 8288 9837 0855 but the amount was not credited.", "entities": [{"type": "CREDIT_CARD", "start": 27, "end": 46}], "tag": "positive"}
+{"text": "Can you whatsapp Nakul Fischer on 9488781010? She is travelling to Mumbai.", "entities": [{"type": "PERSON", "start": 17, "end": 30}, {"type": "PHONE", "start": 34, "end": 44}, {"type": "LOCATION", "start": 67, "end": 73}], "tag": "unseen_name"}
+{"text": "OTP 487216 is valid for ten minutes.", "entities": [], "tag": "hard_negative"}
+{"text": "Serial number 6562962986 is covered under warranty.", "entities": [], "tag": "hard_negative"}

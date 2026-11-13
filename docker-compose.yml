@@ -1,0 +1,10 @@
+services:
+  vaultai:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file: .env
+    volumes:
+      - vault-data:/app/data   # vault survives restarts
+volumes:
+  vault-data:

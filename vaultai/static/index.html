@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VaultAI · Privacy Gateway</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="ambient" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+  <header class="topbar">
+    <div class="brand">
+      <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2 4 5v6c0 5 3.4 9.4 8 11 4.6-1.6 8-6 8-11V5l-8-3Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><rect x="9" y="10.5" width="6" height="5" rx="1" fill="currentColor"/><path d="M10.2 10.5V9a1.8 1.8 0 0 1 3.6 0v1.5" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>
+      <span class="name">VaultAI</span>
+      <span class="sub">Privacy gateway for LLM prompts</span>
+    </div>
+    <div class="status" id="status"></div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button role="tab" class="tab active" data-tab="gateway">Gateway</button>
+    <button role="tab" class="tab" data-tab="vault">Vault &amp; lineage</button>
+    <button role="tab" class="tab" data-tab="erasure">Right to erasure</button>
+    <button role="tab" class="tab" data-tab="admin">
+      <svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true" style="vertical-align:-2px;margin-right:4px"><rect x="5" y="11" width="14" height="9" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3" fill="none" stroke="currentColor" stroke-width="2"/></svg>Admin
+    </button>
+  </nav>
+
+  <main>
+    <!-- ================= GATEWAY ================= -->
+    <section id="tab-gateway" class="panel active">
+
+      <div class="controls card">
+        <div class="group">
+          <span class="label">Framework</span>
+          <div class="segmented" id="framework">
+            <button data-v="DPDP" class="on">India DPDP Act</button>
+            <button data-v="GDPR">EU GDPR</button>
+          </div>
+        </div>
+        <div class="group">
+          <span class="label">Consent</span>
+          <span class="pill" id="consentPill">Not given</span>
+          <select id="consentMinutes" aria-label="Consent duration">
+            <option value="5">5 min</option><option value="30" selected>30 min</option><option value="120">2 hours</option>
+          </select>
+          <button class="btn" id="grantBtn">Give consent</button>
+          <button class="btn" id="withdrawBtn" hidden>Withdraw</button>
+        </div>
+        <div class="group">
+          <span class="label">AI server</span>
+          <select id="region" aria-label="Where the AI model runs"></select>
+          <label class="check" id="safeguardsWrap" hidden><input type="checkbox" id="safeguards"> SCCs / DPF in place</label>
+          <span class="pill" id="transferPill" title="">Checking…</span>
+        </div>
+      </div>
+
+      <div class="stats" id="stats">
+        <div class="stat"><span class="num" data-k="items_tokenized">0</span><span class="cap">items tokenized</span></div>
+        <div class="stat"><span class="num" data-k="messages_sent">0</span><span class="cap">messages protected</span></div>
+        <div class="stat"><span class="num" data-k="values_restored">0</span><span class="cap">values restored</span></div>
+        <div class="stat"><span class="num" data-k="blocked">0</span><span class="cap">requests blocked</span></div>
+      </div>
+
+      <!-- Animated data path -->
+      <div class="card flowcard">
+        <div class="card-head">
+          <h2>Data path</h2>
+          <span class="muted small" id="flowHint">Press <b>Send securely</b> to watch your message travel through the gateway.</span>
+        </div>
+        <div class="flow idle" id="flow">
+          <div class="node" data-i="0">
+            <div class="dot"><svg viewBox="0 0 24 24"><path d="M4 5h16v11H8l-4 4V5Z"/></svg></div>
+            <div class="nt">Your message</div><div class="nc">contains personal data</div><div class="nm"></div>
+          </div>
+          <div class="wire" data-i="0"><span class="spark"></span></div>
+          <div class="node" data-i="1">
+            <div class="dot"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6"/><path d="m15 15 5 5"/></svg></div>
+            <div class="nt">Detect</div><div class="nc">patterns + checksums + NLP</div><div class="nm"></div>
+          </div>
+          <div class="wire" data-i="1"><span class="spark"></span></div>
+          <div class="node" data-i="2">
+            <div class="dot"><svg viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="9" rx="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/></svg></div>
+            <div class="nt">Encrypt &amp; tokenize</div><div class="nc">AES vault, random tokens</div><div class="nm"></div>
+          </div>
+          <div class="wire" data-i="2"><span class="spark"></span></div>
+          <div class="node" data-i="3">
+            <div class="dot"><svg viewBox="0 0 24 24"><rect x="5" y="5" width="14" height="14" rx="3"/><path d="M9 1v4M15 1v4M9 19v4M15 19v4M1 9h4M1 15h4M19 9h4M19 15h4"/></svg></div>
+            <div class="nt">AI model</div><div class="nc" id="nodeModel">sees tokens only</div><div class="nm"></div>
+          </div>
+          <div class="wire" data-i="3"><span class="spark"></span></div>
+          <div class="node" data-i="4">
+            <div class="dot"><svg viewBox="0 0 24 24"><path d="M4 12a8 8 0 1 0 2.3-5.7M4 4v4h4"/></svg></div>
+            <div class="nt">Restore</div><div class="nc">decrypt tokens back</div><div class="nm"></div>
+          </div>
+          <div class="wire" data-i="4"><span class="spark"></span></div>
+          <div class="node" data-i="5">
+            <div class="dot"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/></svg></div>
+            <div class="nt">You see</div><div class="nc">real values, safely</div><div class="nm"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="grid">
+        <div class="card">
+          <div class="card-head">
+            <h2>Your message</h2>
+            <div class="examples">
+              <span class="muted">Try:</span>
+              <button class="link" data-ex="0">Bank KYC</button>
+              <button class="link" data-ex="1">HR request</button>
+              <button class="link" data-ex="2">No personal data</button>
+            </div>
+          </div>
+          <textarea id="input" rows="6" spellcheck="false" placeholder="Write a prompt for the AI assistant…"></textarea>
+          <div class="row">
+            <span class="muted small" id="liveCount">Personal data is highlighted as you type</span>
+            <button class="btn primary" id="sendBtn">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12 20 4l-6 16-3-7-7-1Z"/></svg>
+              <span>Send securely</span>
+            </button>
+          </div>
+          <div class="highlight" id="highlight" aria-live="polite"></div>
+          <div class="riskbar" id="riskbar" hidden>
+            <span class="muted small">Exposure risk if sent unprotected</span>
+            <div class="meter"><div class="fill" id="riskFill"></div></div>
+            <span class="score" id="riskScore"></span>
+          </div>
+          <details class="details" id="detailsBox" hidden>
+            <summary>How it was detected</summary>
+            <p class="muted small">You never have to label anything. Each item is matched by validated patterns (checksums like Verhoeff and Luhn), nearby context words and an NLP model.</p>
+            <div id="entityList" class="entities"></div>
+          </details>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><h2>Step by step</h2></div>
+          <ol class="steps">
+            <li class="step" data-s="1"><span class="n">1</span><div><h3>What the AI model receives</h3><div class="box mono" id="redacted"><span class="muted">Every personal detail is swapped for a random token.</span></div></div></li>
+            <li class="step" data-s="2"><span class="n">2</span><div><h3>What the AI model replies</h3><div class="box mono" id="raw"><span class="muted">The reply only contains tokens.</span></div></div></li>
+            <li class="step" data-s="3"><span class="n">3</span><div><h3>What you see</h3><div class="box" id="final"><span class="muted">Real values are decrypted from the vault and put back.</span></div></div></li>
+          </ol>
+          <div id="error" class="error" hidden></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= VAULT & LINEAGE ================= -->
+    <section id="tab-vault" class="panel">
+      <div class="grid">
+        <div class="card">
+          <div class="card-head"><h2>Token lineage</h2><button class="btn" id="refreshVault">Refresh</button></div>
+          <p class="muted small">The life of every token in this session. Values are stored encrypted (Fernet: AES-128 + HMAC) and never shown here.</p>
+          <div id="lineage" class="lineage"></div>
+        </div>
+        <div class="card">
+          <div class="card-head"><h2>Audit log</h2><span class="muted small">this session · all sessions in Admin</span></div>
+          <div class="tablewrap"><table class="table"><thead><tr><th>Time</th><th>Event</th><th>Detail</th></tr></thead><tbody id="auditRows"></tbody></table></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= ERASURE ================= -->
+    <section id="tab-erasure" class="panel">
+      <div class="grid">
+        <div class="card">
+          <h2>Erase a person's data</h2>
+          <p class="muted small" id="erasureNote"></p>
+          <form id="eraseForm" class="form">
+            <label>Value to erase<input id="eraseValue" placeholder="Any detail: a phone number, email, Aadhaar, name…" autocomplete="off"></label>
+            <label>Reason (kept in the audit log)<input id="eraseReason" placeholder="e.g. Customer withdrew consent"></label>
+            <button class="btn danger" type="submit">Erase everywhere</button>
+          </form>
+          <p class="small result" id="eraseResult"></p>
+        </div>
+        <div class="card">
+          <h2>How erasure works</h2>
+          <p class="small">Just type the value. You don't need to say what kind of data it is. Every stored value has a keyed fingerprint (HMAC-SHA256); the same fingerprint is computed from what you type and every matching copy is deleted across all sessions. Nothing is decrypted to find it, and formats don't matter: <span class="mono">+91 98765-43210</span> and <span class="mono">9876543210</span> match.</p>
+          <p class="small">After erasure, old tokens in past replies show as <span class="mono">[REDACTED]</span>.</p>
+          <hr>
+          <h3>End this session</h3>
+          <p class="small muted">Deletes everything stored for the current conversation and starts a new one.</p>
+          <button class="btn" id="eraseSessionBtn">Erase session &amp; start new</button>
+        </div>
+      </div>
+    </section>
+    <!-- ================= ADMIN ================= -->
+    <section id="tab-admin" class="panel">
+      <div class="card login" id="adminLogin">
+        <div class="login-icon"><svg viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="9" rx="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/></svg></div>
+        <h2>Admin sign in</h2>
+        <p class="muted small">Only administrators can see which real value sits behind each token. Every value you reveal is recorded in the audit log under your name.</p>
+        <form id="adminForm" class="form">
+          <label>Username<input id="adminUser" autocomplete="username" value="admin"></label>
+          <label>Password<input id="adminPass" type="password" autocomplete="current-password"></label>
+          <button class="btn primary" type="submit"><span>Sign in</span></button>
+        </form>
+        <p class="small result bad" id="adminErr"></p>
+        <p class="muted small">First run? The password is printed in the terminal where you started the app, or set your own with <span class="mono">ADMIN_PASSWORD</span> in <span class="mono">.env</span>.</p>
+      </div>
+
+      <div id="adminConsole" hidden>
+        <div class="card">
+          <div class="card-head">
+            <h2>Vault records <span class="muted small" style="font-weight:400">· all sessions</span></h2>
+            <div class="group"><span class="muted small">Signed in as <b id="adminName"></b></span><button class="btn" id="adminLogout">Log out</button></div>
+          </div>
+          <p class="muted small">Values are masked. <b>Reveal</b> decrypts one value for 30 seconds and is written to the audit log with your name. Search works on tokens, sessions, data types, or a real value (matched by fingerprint, without decrypting the vault).</p>
+          <div class="row"><input id="adminSearch" class="search" placeholder="Search: [[V_…]], a session id, PHONE, or a real value like 9876543210" autocomplete="off"><span class="muted small" id="adminCount"></span></div>
+          <div class="tablewrap"><table class="table">
+            <thead><tr><th>Session</th><th>Token</th><th>Type</th><th>Value</th><th>Stored</th><th></th></tr></thead>
+            <tbody id="adminRows"></tbody>
+          </table></div>
+        </div>
+        <div class="card" style="margin-top:18px">
+          <div class="card-head"><h2>Audit log <span class="muted small" style="font-weight:400">· all sessions</span></h2><button class="btn" id="adminAuditRefresh">Refresh</button></div>
+          <div class="tablewrap"><table class="table">
+            <thead><tr><th>Time</th><th>Session</th><th>Event</th><th>Detail</th></tr></thead>
+            <tbody id="adminAudit"></tbody>
+          </table></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot muted small">VaultAI v2 · detection: validated patterns + spaCy NER · vault: encrypted SQLite · <a href="/docs">API docs</a></footer>
+  <script src="/static/app.js"></script>
+</body>
+</html>
