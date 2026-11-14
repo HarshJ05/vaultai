@@ -2,6 +2,8 @@
 
 [![tests](https://github.com/HarshJ05/vaultai/actions/workflows/tests.yml/badge.svg)](https://github.com/HarshJ05/vaultai/actions/workflows/tests.yml)
 
+**Live demo:** https://vaultai-five.vercel.app (runs in demo mode without an API key; the hosted vault is temporary and resets on its own)
+
 People paste Aadhaar numbers, phone numbers, bank details and names into AI chatbots. VaultAI sits between the user and the LLM: it **automatically finds personal data (no labelling needed), swaps each item for a random token, sends only the tokens to the model, and puts the real values back in the reply**. The model never sees the real data, or even what kind of data was removed.
 
 ![VaultAI screenshot](docs/screenshot.png)
