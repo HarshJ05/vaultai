@@ -1,4 +1,0 @@
-[tool.pytest.ini_options]
-# Let `pytest` find the vaultai package from the project root.
-pythonpath = ["."]
-testpaths = ["tests"]
